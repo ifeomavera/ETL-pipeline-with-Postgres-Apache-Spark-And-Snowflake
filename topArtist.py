@@ -25,8 +25,7 @@ for artist in top_artists['items']:
         artist_info = {
             'Artistname': artist['name'],
             'Genre': artist['genres'] if artist['genres'] else ['Unknown Genre'],
-            'FamousLevel': artist['popularity'],
-            'Link': artist['external_urls']['spotify']
+            'FamousLevel': artist['popularity']
         }
         artist_ls.append(artist_info)
 
