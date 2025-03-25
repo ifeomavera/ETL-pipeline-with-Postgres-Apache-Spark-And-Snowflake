@@ -56,6 +56,14 @@
         "link":null
     },
     {
+        "id":"spotify:track:1V9AYsVkGvDL0XrkYvUOGv",
+        "track_name":"Even Better",
+        "artist_name":"D\u00e2mares Gomes",
+        "duration":198688,
+        "popularity":35,
+        "link":null
+    },
+    {
         "id":"spotify:track:4sZLEFie6r4WxCjCUzFv4f",
         "track_name":"Faithful",
         "artist_name":"Cade Kellam",
@@ -77,6 +85,14 @@
         "artist_name":"Samantha Ebert",
         "duration":226000,
         "popularity":52,
+        "link":null
+    },
+    {
+        "id":"spotify:track:0FYUGkkaI0OpnHVeH44kjb",
+        "track_name":"For the Beauty of the Earth",
+        "artist_name":"Alabaster Co.",
+        "duration":332991,
+        "popularity":15,
         "link":null
     },
     {
@@ -368,6 +384,38 @@
         "link":null
     },
     {
+        "id":"spotify:track:2MB2pKgf2fWBGKcewyUBUS",
+        "track_name":"Yesterday Is Dead",
+        "artist_name":"Josiah Queen",
+        "duration":165992,
+        "popularity":62,
+        "link":null
+    },
+    {
+        "id":"spotify:track:2wsRC2hWCDbyYURZ4C65hu",
+        "track_name":"You Are The One Alive In Me RAW",
+        "artist_name":"Sound Of Salem",
+        "duration":120673,
+        "popularity":0,
+        "link":null
+    },
+    {
+        "id":"spotify:track:1MlwlvguOnqk3vZCAWe168",
+        "track_name":"dopamine",
+        "artist_name":"Strings And Heart",
+        "duration":122391,
+        "popularity":54,
+        "link":null
+    },
+    {
+        "id":"spotify:track:5uHmaCMrEFNSgUbV4sPJS8",
+        "track_name":"evergreen love",
+        "artist_name":"Strings And Heart",
+        "duration":177804,
+        "popularity":60,
+        "link":null
+    },
+    {
         "id":"spotify:track:0AbLFT7RZYVEzMZrNUW9cJ",
         "track_name":"everything i once held dear",
         "artist_name":"sxxnt.",
@@ -384,11 +432,35 @@
         "link":null
     },
     {
+        "id":"spotify:track:6kkpKpSIxrWihMFpbTS3VU",
+        "track_name":"if i don't got you",
+        "artist_name":"Strings And Heart",
+        "duration":148016,
+        "popularity":49,
+        "link":null
+    },
+    {
+        "id":"spotify:track:5eOtOmwDRitSjJRNcgkKOc",
+        "track_name":"love you to death",
+        "artist_name":"Josiah Queen",
+        "duration":172258,
+        "popularity":64,
+        "link":null
+    },
+    {
         "id":"spotify:track:2KHUXdmkR1C0bus8w76k0N",
         "track_name":"perfect union",
         "artist_name":"Sinmidele",
         "duration":210745,
         "popularity":45,
+        "link":null
+    },
+    {
+        "id":"spotify:track:5aBhoxCIkOb1odJhyWOM6v",
+        "track_name":"sunset silhouette",
+        "artist_name":"Strings And Heart",
+        "duration":176181,
+        "popularity":54,
         "link":null
     },
     {
