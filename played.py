@@ -17,11 +17,11 @@ sp_oauth = SpotifyOAuth(client_id=client_id, client_secret=client_secret, redire
 sp = spotipy.Spotify(auth_manager=sp_oauth)
 
 # Creating the recent tracks log
-historical_tracks_file = 'all_recent_tracks.csv'
+historical_tracks_file = 'all_recent_tracks.json'
 
 # Checks if the file exists 
 if os.path.exists(historical_tracks_file):
-    historical_tracks_df = pd.read_csv(historical_tracks_file)
+    historical_tracks_df = pd.read_json(historical_tracks_file)
     tracks_ls = historical_tracks_df.to_dict('records')
 else:
     tracks_ls = []
@@ -47,7 +47,8 @@ unique_tracks = {track['played_at']: track for track in tracks_ls}.values()
 
 df = pd.DataFrame(recent_tracks_ls)
 track_df = pd.DataFrame(unique_tracks)
-track_df.sort_values(by='played_at', inplace=True)
+track_df['played_at'] = pd.to_datetime(track_df['played_at'], utc=True)
+track_df.sort_values(by ='played_at', inplace=True)
 
 df.to_json("recent_tracks.json", orient="records", indent=4)
 track_df.to_json("all_recent_tracks.json", orient="records", indent=4)
