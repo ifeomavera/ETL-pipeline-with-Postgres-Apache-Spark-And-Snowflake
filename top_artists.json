@@ -118,19 +118,11 @@
     {
         "Artistname":"Leslie Perez",
         "Genre":[
-            "gospel r&b"
+            "gospel r&b",
+            "christian alternative rock"
         ],
         "FamousLevel":39,
         "Link":"https:\/\/open.spotify.com\/artist\/2NUERBKvU6ghDuqmLReybs"
-    },
-    {
-        "Artistname":"Jesus Image",
-        "Genre":[
-            "worship",
-            "gospel"
-        ],
-        "FamousLevel":50,
-        "Link":"https:\/\/open.spotify.com\/artist\/47UT3dPXB5ttLBnyM76GQc"
     },
     {
         "Artistname":"ONE HOUSE",
@@ -141,6 +133,15 @@
         ],
         "FamousLevel":49,
         "Link":"https:\/\/open.spotify.com\/artist\/6RC9lZOZqIxeg4g38SXNLn"
+    },
+    {
+        "Artistname":"Jesus Image",
+        "Genre":[
+            "worship",
+            "gospel"
+        ],
+        "FamousLevel":50,
+        "Link":"https:\/\/open.spotify.com\/artist\/47UT3dPXB5ttLBnyM76GQc"
     },
     {
         "Artistname":"Elle Limebear",
@@ -154,16 +155,6 @@
         "Link":"https:\/\/open.spotify.com\/artist\/7MCV4p3QmcYDMTfiE0ZWMD"
     },
     {
-        "Artistname":"D\u00e2mares Gomes",
-        "Genre":[
-            "christian alternative rock",
-            "christian folk",
-            "cedm"
-        ],
-        "FamousLevel":38,
-        "Link":"https:\/\/open.spotify.com\/artist\/5vH1WRgVmc2mwF0iXgOibC"
-    },
-    {
         "Artistname":"Anendlessocean",
         "Genre":[
             "african gospel",
@@ -172,6 +163,16 @@
         ],
         "FamousLevel":54,
         "Link":"https:\/\/open.spotify.com\/artist\/43bV8yQzojEPet60WrZJau"
+    },
+    {
+        "Artistname":"D\u00e2mares Gomes",
+        "Genre":[
+            "christian alternative rock",
+            "christian folk",
+            "cedm"
+        ],
+        "FamousLevel":38,
+        "Link":"https:\/\/open.spotify.com\/artist\/5vH1WRgVmc2mwF0iXgOibC"
     },
     {
         "Artistname":"MUCH MORE",

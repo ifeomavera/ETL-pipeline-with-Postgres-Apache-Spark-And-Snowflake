@@ -4,7 +4,7 @@
         "track_name":"Many Moons",
         "artist_name":"Cade Kellam",
         "duration":264000,
-        "popularity":33,
+        "popularity":34,
         "link":null
     },
     {
@@ -20,7 +20,7 @@
         "track_name":"waters",
         "artist_name":"Lord's Child",
         "duration":215000,
-        "popularity":30,
+        "popularity":31,
         "link":null
     },
     {
@@ -132,7 +132,7 @@
         "track_name":"Blessed",
         "artist_name":"Cade Kellam",
         "duration":242886,
-        "popularity":42,
+        "popularity":43,
         "link":null
     },
     {
@@ -140,7 +140,15 @@
         "track_name":"Masoyiyata (Acoustic)",
         "artist_name":"kaestrings",
         "duration":140903,
-        "popularity":36,
+        "popularity":37,
+        "link":null
+    },
+    {
+        "id":"spotify:track:5eOtOmwDRitSjJRNcgkKOc",
+        "track_name":"love you to death",
+        "artist_name":"Josiah Queen",
+        "duration":172258,
+        "popularity":64,
         "link":null
     },
     {
@@ -216,19 +224,11 @@
         "link":null
     },
     {
-        "id":"spotify:track:5eOtOmwDRitSjJRNcgkKOc",
-        "track_name":"love you to death",
-        "artist_name":"Josiah Queen",
-        "duration":172258,
-        "popularity":64,
-        "link":null
-    },
-    {
         "id":"spotify:track:2MB2pKgf2fWBGKcewyUBUS",
         "track_name":"Yesterday Is Dead",
         "artist_name":"Josiah Queen",
         "duration":165992,
-        "popularity":63,
+        "popularity":64,
         "link":null
     },
     {
@@ -268,7 +268,7 @@
         "track_name":"Twenty Something",
         "artist_name":"Claire Leslie",
         "duration":166837,
-        "popularity":31,
+        "popularity":33,
         "link":null
     },
     {
@@ -292,7 +292,7 @@
         "track_name":"Through the Storm",
         "artist_name":"Cade Kellam",
         "duration":257334,
-        "popularity":26,
+        "popularity":27,
         "link":null
     },
     {
@@ -316,7 +316,7 @@
         "track_name":"Faithful",
         "artist_name":"Cade Kellam",
         "duration":294186,
-        "popularity":23,
+        "popularity":24,
         "link":null
     },
     {
@@ -372,7 +372,7 @@
         "track_name":"Mountains",
         "artist_name":"Cade Kellam",
         "duration":188375,
-        "popularity":29,
+        "popularity":30,
         "link":null
     },
     {
@@ -388,7 +388,7 @@
         "track_name":"Original",
         "artist_name":"Claire Leslie",
         "duration":143596,
-        "popularity":41,
+        "popularity":42,
         "link":null
     },
     {
@@ -396,7 +396,7 @@
         "track_name":"You Are The One Alive In Me RAW",
         "artist_name":"Sound Of Salem",
         "duration":120673,
-        "popularity":25,
+        "popularity":27,
         "link":null
     }
 ]
