@@ -235,7 +235,7 @@
             "christian",
             "gospel"
         ],
-        "FamousLevel":50,
+        "FamousLevel":49,
         "Link":"https:\/\/open.spotify.com\/artist\/15AlBadiR2gLPibtqELUH3"
     },
     {
@@ -328,5 +328,55 @@
         ],
         "FamousLevel":58,
         "Link":"https:\/\/open.spotify.com\/artist\/7eEP4TA1RioDH3OBKPcQEC"
+    },
+    {
+        "Artistname":"ISLY",
+        "Genre":[
+            "christian alternative rock",
+            "christian pop",
+            "pop worship",
+            "cedm",
+            "christian",
+            "christian folk"
+        ],
+        "FamousLevel":45,
+        "Link":"https:\/\/open.spotify.com\/artist\/6vcdxuQqc3jvWqznVDPEAW"
+    },
+    {
+        "Artistname":"Josiah Queen",
+        "Genre":[
+            "christian folk",
+            "christian",
+            "worship",
+            "pop worship",
+            "christian pop"
+        ],
+        "FamousLevel":70,
+        "Link":"https:\/\/open.spotify.com\/artist\/7yAymwuYh9RcpX84GSNIq2"
+    },
+    {
+        "Artistname":"Forrest Frank",
+        "Genre":[
+            "christian hip hop",
+            "christian pop",
+            "pop worship",
+            "christian",
+            "worship",
+            "gospel r&b"
+        ],
+        "FamousLevel":76,
+        "Link":"https:\/\/open.spotify.com\/artist\/1scVfBymTr3CeZ4imMj1QJ"
+    },
+    {
+        "Artistname":"Antoine Bradford",
+        "Genre":[
+            "gospel r&b",
+            "christian folk",
+            "worship",
+            "christian alternative rock",
+            "christian"
+        ],
+        "FamousLevel":49,
+        "Link":"https:\/\/open.spotify.com\/artist\/1FYE37rOHOrxO1lHAQUkCl"
     }
 ]

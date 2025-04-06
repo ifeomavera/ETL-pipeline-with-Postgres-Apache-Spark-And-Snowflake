@@ -4,7 +4,7 @@
         "track_name":"Sing Of Your Love",
         "artist_name":"ELEVATION RHYTHM",
         "duration":280374,
-        "popularity":56,
+        "popularity":57,
         "link":null
     },
     {
@@ -344,19 +344,19 @@
         "link":null
     },
     {
-        "id":"spotify:track:0qyUwH5jIuOthSmYb4wy1n",
-        "track_name":"Shepherd - Live",
-        "artist_name":"Cade Kellam",
-        "duration":457094,
-        "popularity":18,
-        "link":null
-    },
-    {
         "id":"spotify:track:1kxOHIlL5ae2zMPrU9aqYC",
         "track_name":"Light Up",
         "artist_name":"Claire Leslie",
         "duration":164400,
         "popularity":44,
+        "link":null
+    },
+    {
+        "id":"spotify:track:0qyUwH5jIuOthSmYb4wy1n",
+        "track_name":"Shepherd - Live",
+        "artist_name":"Cade Kellam",
+        "duration":457094,
+        "popularity":18,
         "link":null
     },
     {
@@ -380,7 +380,7 @@
         "track_name":"Flowers",
         "artist_name":"Samantha Ebert",
         "duration":226000,
-        "popularity":53,
+        "popularity":54,
         "link":null
     },
     {
