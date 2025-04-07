@@ -1,14 +1,5 @@
 [
     {
-        "Artistname":"sxxnt.",
-        "Genre":[
-            "gospel r&b",
-            "christian"
-        ],
-        "FamousLevel":53,
-        "Link":"https:\/\/open.spotify.com\/artist\/4T0c560DVGr1cAtE3reOP1"
-    },
-    {
         "Artistname":"Strings And Heart",
         "Genre":[
             "christian folk",
@@ -19,6 +10,15 @@
         ],
         "FamousLevel":58,
         "Link":"https:\/\/open.spotify.com\/artist\/5lHDypXbNmHTDoFWpSTqXd"
+    },
+    {
+        "Artistname":"sxxnt.",
+        "Genre":[
+            "gospel r&b",
+            "christian"
+        ],
+        "FamousLevel":53,
+        "Link":"https:\/\/open.spotify.com\/artist\/4T0c560DVGr1cAtE3reOP1"
     },
     {
         "Artistname":"Cade Kellam",
@@ -77,15 +77,6 @@
         "Link":"https:\/\/open.spotify.com\/artist\/6sx0dcFppnpZl1HSX6cCqx"
     },
     {
-        "Artistname":"Kenneth Kelly",
-        "Genre":[
-            "gospel r&b",
-            "pop worship"
-        ],
-        "FamousLevel":27,
-        "Link":"https:\/\/open.spotify.com\/artist\/0S90F2l4d1G4ZeqVvDLy3q"
-    },
-    {
         "Artistname":"Sinmidele",
         "Genre":[
             "gospel r&b",
@@ -94,6 +85,15 @@
         ],
         "FamousLevel":48,
         "Link":"https:\/\/open.spotify.com\/artist\/0xmUZqkqmJfezc0fzyfboj"
+    },
+    {
+        "Artistname":"Kenneth Kelly",
+        "Genre":[
+            "gospel r&b",
+            "pop worship"
+        ],
+        "FamousLevel":27,
+        "Link":"https:\/\/open.spotify.com\/artist\/0S90F2l4d1G4ZeqVvDLy3q"
     },
     {
         "Artistname":"Sarah Nathali\u00e9",
@@ -113,8 +113,28 @@
             "christian alternative rock",
             "christian folk"
         ],
-        "FamousLevel":44,
+        "FamousLevel":43,
         "Link":"https:\/\/open.spotify.com\/artist\/39mgk0y3gWDfKqHTAcc2LG"
+    },
+    {
+        "Artistname":"Anendlessocean",
+        "Genre":[
+            "african gospel",
+            "gospel",
+            "gospel r&b"
+        ],
+        "FamousLevel":54,
+        "Link":"https:\/\/open.spotify.com\/artist\/43bV8yQzojEPet60WrZJau"
+    },
+    {
+        "Artistname":"121SELAH",
+        "Genre":[
+            "african gospel",
+            "gospel",
+            "gospel r&b"
+        ],
+        "FamousLevel":43,
+        "Link":"https:\/\/open.spotify.com\/artist\/3D0PnJS2WA0lgjLgMz0Oqq"
     },
     {
         "Artistname":"Alabaster Co.",
@@ -141,6 +161,26 @@
         ],
         "FamousLevel":33,
         "Link":"https:\/\/open.spotify.com\/artist\/3JdtFl0iWwZTNO5ul5nP5e"
+    },
+    {
+        "Artistname":"K3ndrick",
+        "Genre":[
+            "african gospel",
+            "gospel r&b",
+            "gospel"
+        ],
+        "FamousLevel":46,
+        "Link":"https:\/\/open.spotify.com\/artist\/0ULEmCfIKnFCdZfZsTmxG5"
+    },
+    {
+        "Artistname":"kaestrings",
+        "Genre":[
+            "african gospel",
+            "gospel",
+            "worship"
+        ],
+        "FamousLevel":58,
+        "Link":"https:\/\/open.spotify.com\/artist\/7eEP4TA1RioDH3OBKPcQEC"
     },
     {
         "Artistname":"Annatoria",
@@ -182,6 +222,14 @@
         "Link":"https:\/\/open.spotify.com\/artist\/47UT3dPXB5ttLBnyM76GQc"
     },
     {
+        "Artistname":"Madison Ryann Ward",
+        "Genre":[
+            "gospel r&b"
+        ],
+        "FamousLevel":60,
+        "Link":"https:\/\/open.spotify.com\/artist\/6eAUAR4N9NOpirukqdIzVI"
+    },
+    {
         "Artistname":"Elle Limebear",
         "Genre":[
             "christian pop",
@@ -193,22 +241,30 @@
         "Link":"https:\/\/open.spotify.com\/artist\/7MCV4p3QmcYDMTfiE0ZWMD"
     },
     {
-        "Artistname":"Madison Ryann Ward",
+        "Artistname":"Sondae",
         "Genre":[
-            "gospel r&b"
+            "gospel r&b",
+            "christian",
+            "gospel",
+            "christian pop",
+            "christian hip hop",
+            "pop worship",
+            "worship"
         ],
         "FamousLevel":60,
-        "Link":"https:\/\/open.spotify.com\/artist\/6eAUAR4N9NOpirukqdIzVI"
+        "Link":"https:\/\/open.spotify.com\/artist\/2PCl4hx9Qds8sjcnoWUdqp"
     },
     {
-        "Artistname":"Anendlessocean",
+        "Artistname":"Jonny Henninger",
         "Genre":[
-            "african gospel",
-            "gospel",
-            "gospel r&b"
+            "gospel r&b",
+            "christian alternative rock",
+            "christian pop",
+            "pop worship",
+            "christian"
         ],
-        "FamousLevel":54,
-        "Link":"https:\/\/open.spotify.com\/artist\/43bV8yQzojEPet60WrZJau"
+        "FamousLevel":42,
+        "Link":"https:\/\/open.spotify.com\/artist\/1L9zhXcitRv35NwUZmwBZ4"
     },
     {
         "Artistname":"ISLY",
@@ -234,18 +290,12 @@
         "Link":"https:\/\/open.spotify.com\/artist\/5vH1WRgVmc2mwF0iXgOibC"
     },
     {
-        "Artistname":"Sondae",
+        "Artistname":"Emmanuel Zamar",
         "Genre":[
-            "gospel r&b",
-            "christian",
-            "gospel",
-            "christian pop",
-            "christian hip hop",
-            "pop worship",
-            "worship"
+            "gospel r&b"
         ],
-        "FamousLevel":60,
-        "Link":"https:\/\/open.spotify.com\/artist\/2PCl4hx9Qds8sjcnoWUdqp"
+        "FamousLevel":33,
+        "Link":"https:\/\/open.spotify.com\/artist\/6h6ySmE1mgWa3M9UADYJt0"
     },
     {
         "Artistname":"Josiah Queen",
@@ -286,16 +336,13 @@
         "Link":"https:\/\/open.spotify.com\/artist\/19TPpTWkgX13Qc2stbqVoP"
     },
     {
-        "Artistname":"Jonny Henninger",
+        "Artistname":"Verses",
         "Genre":[
-            "gospel r&b",
-            "christian alternative rock",
-            "christian pop",
-            "pop worship",
-            "christian"
+            "christian folk",
+            "worship"
         ],
-        "FamousLevel":42,
-        "Link":"https:\/\/open.spotify.com\/artist\/1L9zhXcitRv35NwUZmwBZ4"
+        "FamousLevel":50,
+        "Link":"https:\/\/open.spotify.com\/artist\/3wjs1kzL7HZbzs8HpxllEI"
     },
     {
         "Artistname":"Forrest Frank",
@@ -319,6 +366,14 @@
         "Link":"https:\/\/open.spotify.com\/artist\/2ezPNfNGOAwgmDCX51mhf3"
     },
     {
+        "Artistname":"Morgan J",
+        "Genre":[
+            "gospel r&b"
+        ],
+        "FamousLevel":37,
+        "Link":"https:\/\/open.spotify.com\/artist\/61kGREOrmdzaTsCVSkVXw1"
+    },
+    {
         "Artistname":"Moses Bliss",
         "Genre":[
             "african gospel",
@@ -337,18 +392,6 @@
         "Link":"https:\/\/open.spotify.com\/artist\/14EkDZQXCL0J9CpQ1tKIKC"
     },
     {
-        "Artistname":"Antoine Bradford",
-        "Genre":[
-            "gospel r&b",
-            "christian folk",
-            "worship",
-            "christian alternative rock",
-            "christian"
-        ],
-        "FamousLevel":49,
-        "Link":"https:\/\/open.spotify.com\/artist\/1FYE37rOHOrxO1lHAQUkCl"
-    },
-    {
         "Artistname":"ELEVATION RHYTHM",
         "Genre":[
             "worship",
@@ -360,13 +403,15 @@
         "Link":"https:\/\/open.spotify.com\/artist\/0qZ8aSF0iMCQI99AAXikF8"
     },
     {
-        "Artistname":"kaestrings",
+        "Artistname":"Antoine Bradford",
         "Genre":[
-            "african gospel",
-            "gospel",
-            "worship"
+            "gospel r&b",
+            "christian folk",
+            "worship",
+            "christian alternative rock",
+            "christian"
         ],
-        "FamousLevel":58,
-        "Link":"https:\/\/open.spotify.com\/artist\/7eEP4TA1RioDH3OBKPcQEC"
+        "FamousLevel":49,
+        "Link":"https:\/\/open.spotify.com\/artist\/1FYE37rOHOrxO1lHAQUkCl"
     }
 ]

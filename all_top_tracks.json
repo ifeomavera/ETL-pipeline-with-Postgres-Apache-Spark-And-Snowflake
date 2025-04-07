@@ -392,6 +392,14 @@
         "link":null
     },
     {
+        "id":"spotify:track:6tM4E2Je4omnd7FwHt6tyf",
+        "track_name":"Te Amo",
+        "artist_name":"121SELAH",
+        "duration":226666,
+        "popularity":46,
+        "link":null
+    },
+    {
         "id":"spotify:track:0Iy5fEEflk6ZLAwlezqXVE",
         "track_name":"The Anthem (Iwo Tani)",
         "artist_name":"Bidemi Olaoba",
@@ -460,7 +468,7 @@
         "track_name":"bright eyed",
         "artist_name":"Strings And Heart",
         "duration":120509,
-        "popularity":40,
+        "popularity":41,
         "link":null
     },
     {
@@ -468,7 +476,7 @@
         "track_name":"dopamine",
         "artist_name":"Strings And Heart",
         "duration":122391,
-        "popularity":55,
+        "popularity":56,
         "link":null
     },
     {
@@ -484,7 +492,7 @@
         "track_name":"evergreen love",
         "artist_name":"Strings And Heart",
         "duration":177804,
-        "popularity":61,
+        "popularity":62,
         "link":null
     },
     {

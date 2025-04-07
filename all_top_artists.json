@@ -105,7 +105,7 @@
             "christian alternative rock",
             "christian folk"
         ],
-        "FamousLevel":44,
+        "FamousLevel":43,
         "Link":"https:\/\/open.spotify.com\/artist\/39mgk0y3gWDfKqHTAcc2LG"
     },
     {
@@ -378,5 +378,50 @@
         ],
         "FamousLevel":49,
         "Link":"https:\/\/open.spotify.com\/artist\/1FYE37rOHOrxO1lHAQUkCl"
+    },
+    {
+        "Artistname":"121SELAH",
+        "Genre":[
+            "african gospel",
+            "gospel",
+            "gospel r&b"
+        ],
+        "FamousLevel":43,
+        "Link":"https:\/\/open.spotify.com\/artist\/3D0PnJS2WA0lgjLgMz0Oqq"
+    },
+    {
+        "Artistname":"K3ndrick",
+        "Genre":[
+            "african gospel",
+            "gospel r&b",
+            "gospel"
+        ],
+        "FamousLevel":46,
+        "Link":"https:\/\/open.spotify.com\/artist\/0ULEmCfIKnFCdZfZsTmxG5"
+    },
+    {
+        "Artistname":"Emmanuel Zamar",
+        "Genre":[
+            "gospel r&b"
+        ],
+        "FamousLevel":33,
+        "Link":"https:\/\/open.spotify.com\/artist\/6h6ySmE1mgWa3M9UADYJt0"
+    },
+    {
+        "Artistname":"Verses",
+        "Genre":[
+            "christian folk",
+            "worship"
+        ],
+        "FamousLevel":50,
+        "Link":"https:\/\/open.spotify.com\/artist\/3wjs1kzL7HZbzs8HpxllEI"
+    },
+    {
+        "Artistname":"Morgan J",
+        "Genre":[
+            "gospel r&b"
+        ],
+        "FamousLevel":37,
+        "Link":"https:\/\/open.spotify.com\/artist\/61kGREOrmdzaTsCVSkVXw1"
     }
 ]
