@@ -2,8 +2,7 @@
     {
         "Artistname":"sxxnt.",
         "Genre":[
-            "gospel r&b",
-            "christian"
+            "gospel r&b"
         ],
         "FamousLevel":53,
         "Link":"https:\/\/open.spotify.com\/artist\/4T0c560DVGr1cAtE3reOP1"
@@ -44,7 +43,7 @@
             "gospel",
             "worship"
         ],
-        "FamousLevel":46,
+        "FamousLevel":47,
         "Link":"https:\/\/open.spotify.com\/artist\/6zgGhksQtJmJzAOalAeUSV"
     },
     {
@@ -73,7 +72,8 @@
             "christian alternative rock",
             "christian pop",
             "pop worship",
-            "christian"
+            "christian",
+            "worship"
         ],
         "FamousLevel":58,
         "Link":"https:\/\/open.spotify.com\/artist\/5lHDypXbNmHTDoFWpSTqXd"
@@ -133,7 +133,7 @@
             "gospel r&b",
             "gospel"
         ],
-        "FamousLevel":49,
+        "FamousLevel":50,
         "Link":"https:\/\/open.spotify.com\/artist\/6RC9lZOZqIxeg4g38SXNLn"
     },
     {
@@ -211,7 +211,7 @@
             "gospel",
             "worship"
         ],
-        "FamousLevel":59,
+        "FamousLevel":60,
         "Link":"https:\/\/open.spotify.com\/artist\/79MTG7HPurBgQ0ilwJ4AgM"
     },
     {
@@ -235,7 +235,7 @@
             "christian",
             "gospel"
         ],
-        "FamousLevel":49,
+        "FamousLevel":50,
         "Link":"https:\/\/open.spotify.com\/artist\/15AlBadiR2gLPibtqELUH3"
     },
     {
@@ -423,5 +423,13 @@
         ],
         "FamousLevel":37,
         "Link":"https:\/\/open.spotify.com\/artist\/61kGREOrmdzaTsCVSkVXw1"
+    },
+    {
+        "Artistname":"Ri-An",
+        "Genre":[
+            "gospel r&b"
+        ],
+        "FamousLevel":39,
+        "Link":"https:\/\/open.spotify.com\/artist\/0q8s2UD3GPKFfYuXWbvRVo"
     }
 ]
