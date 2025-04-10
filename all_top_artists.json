@@ -75,7 +75,7 @@
             "christian",
             "worship"
         ],
-        "FamousLevel":58,
+        "FamousLevel":59,
         "Link":"https:\/\/open.spotify.com\/artist\/5lHDypXbNmHTDoFWpSTqXd"
     },
     {
@@ -105,7 +105,7 @@
             "christian alternative rock",
             "christian folk"
         ],
-        "FamousLevel":43,
+        "FamousLevel":44,
         "Link":"https:\/\/open.spotify.com\/artist\/39mgk0y3gWDfKqHTAcc2LG"
     },
     {
@@ -396,7 +396,7 @@
             "gospel r&b",
             "gospel"
         ],
-        "FamousLevel":46,
+        "FamousLevel":47,
         "Link":"https:\/\/open.spotify.com\/artist\/0ULEmCfIKnFCdZfZsTmxG5"
     },
     {
@@ -429,7 +429,46 @@
         "Genre":[
             "gospel r&b"
         ],
-        "FamousLevel":39,
+        "FamousLevel":40,
         "Link":"https:\/\/open.spotify.com\/artist\/0q8s2UD3GPKFfYuXWbvRVo"
+    },
+    {
+        "Artistname":"Rotimikeys",
+        "Genre":[
+            "african gospel",
+            "gospel"
+        ],
+        "FamousLevel":41,
+        "Link":"https:\/\/open.spotify.com\/artist\/6kMfCacgijUReCAskGVQwR"
+    },
+    {
+        "Artistname":"Grace Idowu",
+        "Genre":[
+            "african gospel",
+            "gospel",
+            "worship"
+        ],
+        "FamousLevel":45,
+        "Link":"https:\/\/open.spotify.com\/artist\/77XL22LWpJkV8djPjCNoNH"
+    },
+    {
+        "Artistname":"Tim Godfrey",
+        "Genre":[
+            "african gospel",
+            "gospel",
+            "worship"
+        ],
+        "FamousLevel":49,
+        "Link":"https:\/\/open.spotify.com\/artist\/509E47UmbRPKWPXOMaieh2"
+    },
+    {
+        "Artistname":"Sunmisola Agbebi",
+        "Genre":[
+            "african gospel",
+            "gospel",
+            "worship"
+        ],
+        "FamousLevel":57,
+        "Link":"https:\/\/open.spotify.com\/artist\/7fJd7w897ouOZzDc6e3oyU"
     }
 ]

@@ -9,7 +9,7 @@
             "christian",
             "worship"
         ],
-        "FamousLevel":58,
+        "FamousLevel":59,
         "Link":"https:\/\/open.spotify.com\/artist\/5lHDypXbNmHTDoFWpSTqXd"
     },
     {
@@ -113,7 +113,7 @@
             "christian alternative rock",
             "christian folk"
         ],
-        "FamousLevel":43,
+        "FamousLevel":44,
         "Link":"https:\/\/open.spotify.com\/artist\/39mgk0y3gWDfKqHTAcc2LG"
     },
     {
@@ -179,8 +179,17 @@
             "gospel r&b",
             "gospel"
         ],
-        "FamousLevel":46,
+        "FamousLevel":47,
         "Link":"https:\/\/open.spotify.com\/artist\/0ULEmCfIKnFCdZfZsTmxG5"
+    },
+    {
+        "Artistname":"Rotimikeys",
+        "Genre":[
+            "african gospel",
+            "gospel"
+        ],
+        "FamousLevel":41,
+        "Link":"https:\/\/open.spotify.com\/artist\/6kMfCacgijUReCAskGVQwR"
     },
     {
         "Artistname":"Annatoria",
@@ -290,6 +299,16 @@
         "Link":"https:\/\/open.spotify.com\/artist\/5vH1WRgVmc2mwF0iXgOibC"
     },
     {
+        "Artistname":"Grace Idowu",
+        "Genre":[
+            "african gospel",
+            "gospel",
+            "worship"
+        ],
+        "FamousLevel":45,
+        "Link":"https:\/\/open.spotify.com\/artist\/77XL22LWpJkV8djPjCNoNH"
+    },
+    {
         "Artistname":"Josiah Queen",
         "Genre":[
             "christian folk",
@@ -328,6 +347,19 @@
         "Link":"https:\/\/open.spotify.com\/artist\/19TPpTWkgX13Qc2stbqVoP"
     },
     {
+        "Artistname":"Forrest Frank",
+        "Genre":[
+            "christian hip hop",
+            "christian pop",
+            "pop worship",
+            "christian",
+            "worship",
+            "gospel r&b"
+        ],
+        "FamousLevel":76,
+        "Link":"https:\/\/open.spotify.com\/artist\/1scVfBymTr3CeZ4imMj1QJ"
+    },
+    {
         "Artistname":"Verses",
         "Genre":[
             "christian folk",
@@ -351,21 +383,8 @@
         "Genre":[
             "gospel r&b"
         ],
-        "FamousLevel":39,
+        "FamousLevel":40,
         "Link":"https:\/\/open.spotify.com\/artist\/0q8s2UD3GPKFfYuXWbvRVo"
-    },
-    {
-        "Artistname":"Forrest Frank",
-        "Genre":[
-            "christian hip hop",
-            "christian pop",
-            "pop worship",
-            "christian",
-            "worship",
-            "gospel r&b"
-        ],
-        "FamousLevel":76,
-        "Link":"https:\/\/open.spotify.com\/artist\/1scVfBymTr3CeZ4imMj1QJ"
     },
     {
         "Artistname":"Caleb Bachtel",
@@ -374,6 +393,16 @@
         ],
         "FamousLevel":30,
         "Link":"https:\/\/open.spotify.com\/artist\/2ezPNfNGOAwgmDCX51mhf3"
+    },
+    {
+        "Artistname":"Tim Godfrey",
+        "Genre":[
+            "african gospel",
+            "gospel",
+            "worship"
+        ],
+        "FamousLevel":49,
+        "Link":"https:\/\/open.spotify.com\/artist\/509E47UmbRPKWPXOMaieh2"
     },
     {
         "Artistname":"Morgan J",
@@ -390,6 +419,16 @@
         ],
         "FamousLevel":33,
         "Link":"https:\/\/open.spotify.com\/artist\/6h6ySmE1mgWa3M9UADYJt0"
+    },
+    {
+        "Artistname":"Sunmisola Agbebi",
+        "Genre":[
+            "african gospel",
+            "gospel",
+            "worship"
+        ],
+        "FamousLevel":57,
+        "Link":"https:\/\/open.spotify.com\/artist\/7fJd7w897ouOZzDc6e3oyU"
     },
     {
         "Artistname":"Lord's Child",
