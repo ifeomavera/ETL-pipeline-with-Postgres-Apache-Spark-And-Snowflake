@@ -95,7 +95,7 @@
             "gospel r&b",
             "cedm"
         ],
-        "FamousLevel":33,
+        "FamousLevel":34,
         "Link":"https:\/\/open.spotify.com\/artist\/3JdtFl0iWwZTNO5ul5nP5e"
     },
     {
@@ -114,7 +114,7 @@
             "gospel r&b",
             "christian alternative rock"
         ],
-        "FamousLevel":39,
+        "FamousLevel":40,
         "Link":"https:\/\/open.spotify.com\/artist\/2NUERBKvU6ghDuqmLReybs"
     },
     {
@@ -193,7 +193,7 @@
         "Genre":[
             "worship"
         ],
-        "FamousLevel":30,
+        "FamousLevel":31,
         "Link":"https:\/\/open.spotify.com\/artist\/2ezPNfNGOAwgmDCX51mhf3"
     },
     {
@@ -404,7 +404,7 @@
         "Genre":[
             "gospel r&b"
         ],
-        "FamousLevel":33,
+        "FamousLevel":34,
         "Link":"https:\/\/open.spotify.com\/artist\/6h6ySmE1mgWa3M9UADYJt0"
     },
     {
@@ -470,5 +470,33 @@
         ],
         "FamousLevel":57,
         "Link":"https:\/\/open.spotify.com\/artist\/7fJd7w897ouOZzDc6e3oyU"
+    },
+    {
+        "Artistname":"Stevie Rizo",
+        "Genre":[
+            "gospel r&b",
+            "christian hip hop",
+            "christian"
+        ],
+        "FamousLevel":44,
+        "Link":"https:\/\/open.spotify.com\/artist\/2oL0lsdUDgJOSDTcXCf8BL"
+    },
+    {
+        "Artistname":"Kaye-Marie",
+        "Genre":[
+            "gospel r&b"
+        ],
+        "FamousLevel":36,
+        "Link":"https:\/\/open.spotify.com\/artist\/51V84X0Uw6QQ8a31yRLTeN"
+    },
+    {
+        "Artistname":"Sinach",
+        "Genre":[
+            "african gospel",
+            "gospel",
+            "worship"
+        ],
+        "FamousLevel":48,
+        "Link":"https:\/\/open.spotify.com\/artist\/6hKHFC67DZJNw9tg1l0lIe"
     }
 ]

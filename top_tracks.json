@@ -24,6 +24,14 @@
         "link":null
     },
     {
+        "id":"spotify:track:5uHmaCMrEFNSgUbV4sPJS8",
+        "track_name":"evergreen love",
+        "artist_name":"Strings And Heart",
+        "duration":177804,
+        "popularity":62,
+        "link":null
+    },
+    {
         "id":"spotify:track:6OJooIGQRv2xjNr2AEvckI",
         "track_name":"Isi Gini",
         "artist_name":"Bidemi Olaoba",
@@ -84,7 +92,7 @@
         "track_name":"Plant",
         "artist_name":"Sarah Nathali\u00e9",
         "duration":137239,
-        "popularity":20,
+        "popularity":21,
         "link":null
     },
     {
@@ -101,14 +109,6 @@
         "artist_name":"Strings And Heart",
         "duration":176181,
         "popularity":56,
-        "link":null
-    },
-    {
-        "id":"spotify:track:5uHmaCMrEFNSgUbV4sPJS8",
-        "track_name":"evergreen love",
-        "artist_name":"Strings And Heart",
-        "duration":177804,
-        "popularity":62,
         "link":null
     },
     {
@@ -188,7 +188,7 @@
         "track_name":"Dry Bones",
         "artist_name":"Gabriel Eziashi",
         "duration":178512,
-        "popularity":42,
+        "popularity":43,
         "link":null
     },
     {
@@ -244,7 +244,7 @@
         "track_name":"Yesterday Is Dead",
         "artist_name":"Josiah Queen",
         "duration":165992,
-        "popularity":68,
+        "popularity":69,
         "link":null
     },
     {
@@ -260,7 +260,7 @@
         "track_name":"Shepherds",
         "artist_name":"Alabaster Co.",
         "duration":155778,
-        "popularity":30,
+        "popularity":31,
         "link":null
     },
     {
@@ -284,7 +284,7 @@
         "track_name":"HOLY HUH?",
         "artist_name":"DKG KIE",
         "duration":164181,
-        "popularity":45,
+        "popularity":46,
         "link":null
     },
     {
@@ -336,6 +336,14 @@
         "link":null
     },
     {
+        "id":"spotify:track:4MHtOzMHR64BDwUvpcFr3Q",
+        "track_name":"more of you - single version",
+        "artist_name":"Strings And Heart",
+        "duration":169219,
+        "popularity":44,
+        "link":null
+    },
+    {
         "id":"spotify:track:67GgkBHYX6x3qzXkNqS5oJ",
         "track_name":"Passenger Seat",
         "artist_name":"Claire Leslie",
@@ -364,7 +372,7 @@
         "track_name":"Shepherd - Live",
         "artist_name":"Cade Kellam",
         "duration":457094,
-        "popularity":18,
+        "popularity":19,
         "link":null
     },
     {
@@ -389,14 +397,6 @@
         "artist_name":"Cade Kellam",
         "duration":234562,
         "popularity":39,
-        "link":null
-    },
-    {
-        "id":"spotify:track:0KIv0Lho9vsPCj8Sac21IV",
-        "track_name":"Flowers",
-        "artist_name":"Samantha Ebert",
-        "duration":226000,
-        "popularity":54,
         "link":null
     }
 ]
