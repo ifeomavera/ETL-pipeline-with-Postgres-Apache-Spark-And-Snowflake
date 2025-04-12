@@ -244,7 +244,7 @@
         "track_name":"Many Moons",
         "artist_name":"Cade Kellam",
         "duration":264000,
-        "popularity":35,
+        "popularity":36,
         "link":null
     },
     {
@@ -276,7 +276,7 @@
         "track_name":"My Baby",
         "artist_name":"Remii",
         "duration":186666,
-        "popularity":39,
+        "popularity":40,
         "link":null
     },
     {
@@ -316,7 +316,7 @@
         "track_name":"Passenger Seat",
         "artist_name":"Claire Leslie",
         "duration":176000,
-        "popularity":47,
+        "popularity":48,
         "link":null
     },
     {
@@ -340,6 +340,14 @@
         "track_name":"Psalm 46",
         "artist_name":"Tekoa",
         "duration":204600,
+        "popularity":45,
+        "link":null
+    },
+    {
+        "id":"spotify:track:6iiAykg47kO4pXbdzpI65p",
+        "track_name":"RUN",
+        "artist_name":"G.E.S",
+        "duration":163001,
         "popularity":45,
         "link":null
     },
@@ -372,7 +380,7 @@
         "track_name":"Sing Of Your Love",
         "artist_name":"ELEVATION RHYTHM",
         "duration":280374,
-        "popularity":59,
+        "popularity":60,
         "link":null
     },
     {
@@ -532,7 +540,7 @@
         "track_name":"more of you - single version",
         "artist_name":"Strings And Heart",
         "duration":169219,
-        "popularity":44,
+        "popularity":45,
         "link":null
     },
     {

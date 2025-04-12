@@ -30,6 +30,14 @@
         "Link":"https:\/\/open.spotify.com\/artist\/1GWnsRvGpSmKxHOjMQah4k"
     },
     {
+        "Artistname":"G.E.S",
+        "Genre":[
+            "gospel r&b"
+        ],
+        "FamousLevel":36,
+        "Link":"https:\/\/open.spotify.com\/artist\/1r0gAOldNSTyidXhWLDHTF"
+    },
+    {
         "Artistname":"Claire Leslie",
         "Genre":[
             "pop worship",
@@ -38,14 +46,6 @@
         ],
         "FamousLevel":42,
         "Link":"https:\/\/open.spotify.com\/artist\/5GkuwRdmvp8r48JCPwqM7E"
-    },
-    {
-        "Artistname":"G.E.S",
-        "Genre":[
-            "gospel r&b"
-        ],
-        "FamousLevel":36,
-        "Link":"https:\/\/open.spotify.com\/artist\/1r0gAOldNSTyidXhWLDHTF"
     },
     {
         "Artistname":"Cecily",
@@ -63,7 +63,7 @@
             "gospel",
             "worship"
         ],
-        "FamousLevel":47,
+        "FamousLevel":46,
         "Link":"https:\/\/open.spotify.com\/artist\/6zgGhksQtJmJzAOalAeUSV"
     },
     {
@@ -163,6 +163,16 @@
         "Link":"https:\/\/open.spotify.com\/artist\/3JdtFl0iWwZTNO5ul5nP5e"
     },
     {
+        "Artistname":"Moses Bliss",
+        "Genre":[
+            "african gospel",
+            "gospel",
+            "worship"
+        ],
+        "FamousLevel":60,
+        "Link":"https:\/\/open.spotify.com\/artist\/79MTG7HPurBgQ0ilwJ4AgM"
+    },
+    {
         "Artistname":"kaestrings",
         "Genre":[
             "african gospel",
@@ -230,6 +240,16 @@
         "Link":"https:\/\/open.spotify.com\/artist\/6eAUAR4N9NOpirukqdIzVI"
     },
     {
+        "Artistname":"Grace Idowu",
+        "Genre":[
+            "african gospel",
+            "gospel",
+            "worship"
+        ],
+        "FamousLevel":45,
+        "Link":"https:\/\/open.spotify.com\/artist\/77XL22LWpJkV8djPjCNoNH"
+    },
+    {
         "Artistname":"Jesus Image",
         "Genre":[
             "worship",
@@ -248,16 +268,6 @@
         ],
         "FamousLevel":50,
         "Link":"https:\/\/open.spotify.com\/artist\/7MCV4p3QmcYDMTfiE0ZWMD"
-    },
-    {
-        "Artistname":"Grace Idowu",
-        "Genre":[
-            "african gospel",
-            "gospel",
-            "worship"
-        ],
-        "FamousLevel":45,
-        "Link":"https:\/\/open.spotify.com\/artist\/77XL22LWpJkV8djPjCNoNH"
     },
     {
         "Artistname":"Sondae",
@@ -284,6 +294,17 @@
         ],
         "FamousLevel":42,
         "Link":"https:\/\/open.spotify.com\/artist\/1L9zhXcitRv35NwUZmwBZ4"
+    },
+    {
+        "Artistname":"Joe L Barnes",
+        "Genre":[
+            "worship",
+            "christian",
+            "pop worship",
+            "christian pop"
+        ],
+        "FamousLevel":60,
+        "Link":"https:\/\/open.spotify.com\/artist\/5nO7Yt0Jon48sqKR6VME4T"
     },
     {
         "Artistname":"ISLY",
@@ -319,16 +340,6 @@
         ],
         "FamousLevel":70,
         "Link":"https:\/\/open.spotify.com\/artist\/7yAymwuYh9RcpX84GSNIq2"
-    },
-    {
-        "Artistname":"Moses Bliss",
-        "Genre":[
-            "african gospel",
-            "gospel",
-            "worship"
-        ],
-        "FamousLevel":60,
-        "Link":"https:\/\/open.spotify.com\/artist\/79MTG7HPurBgQ0ilwJ4AgM"
     },
     {
         "Artistname":"MUCH MORE",
@@ -379,6 +390,24 @@
         "Link":"https:\/\/open.spotify.com\/artist\/3wjs1kzL7HZbzs8HpxllEI"
     },
     {
+        "Artistname":"Maverick City Music",
+        "Genre":[
+            "worship",
+            "gospel",
+            "christian"
+        ],
+        "FamousLevel":73,
+        "Link":"https:\/\/open.spotify.com\/artist\/58r1rB5t3VF5X6yXGPequV"
+    },
+    {
+        "Artistname":"Forest City Worship",
+        "Genre":[
+            "worship"
+        ],
+        "FamousLevel":32,
+        "Link":"https:\/\/open.spotify.com\/artist\/62ljNQ8SnPR741I6DWY8II"
+    },
+    {
         "Artistname":"Ri-An",
         "Genre":[
             "gospel r&b"
@@ -387,12 +416,43 @@
         "Link":"https:\/\/open.spotify.com\/artist\/0q8s2UD3GPKFfYuXWbvRVo"
     },
     {
+        "Artistname":"Eris Ford",
+        "Genre":[
+            "gospel r&b",
+            "christian pop",
+            "pop worship"
+        ],
+        "FamousLevel":42,
+        "Link":"https:\/\/open.spotify.com\/artist\/1zZDuiPTuQzsbXPj4N58G4"
+    },
+    {
         "Artistname":"Caleb Bachtel",
         "Genre":[
             "worship"
         ],
         "FamousLevel":31,
         "Link":"https:\/\/open.spotify.com\/artist\/2ezPNfNGOAwgmDCX51mhf3"
+    },
+    {
+        "Artistname":"Rock City Worship",
+        "Genre":[
+            "pop worship",
+            "cedm",
+            "christian pop",
+            "worship",
+            "christian"
+        ],
+        "FamousLevel":39,
+        "Link":"https:\/\/open.spotify.com\/artist\/3yAv8udgy9z6yF6rREcgfB"
+    },
+    {
+        "Artistname":"Tribl",
+        "Genre":[
+            "worship",
+            "gospel"
+        ],
+        "FamousLevel":45,
+        "Link":"https:\/\/open.spotify.com\/artist\/41vLsivOowwJtkhNfEQjyV"
     },
     {
         "Artistname":"Tim Godfrey",
@@ -413,6 +473,15 @@
         "Link":"https:\/\/open.spotify.com\/artist\/61kGREOrmdzaTsCVSkVXw1"
     },
     {
+        "Artistname":"Housefires",
+        "Genre":[
+            "worship",
+            "christian"
+        ],
+        "FamousLevel":60,
+        "Link":"https:\/\/open.spotify.com\/artist\/6egyCFgiJ1j941PaxKoWJD"
+    },
+    {
         "Artistname":"Emmanuel Zamar",
         "Genre":[
             "gospel r&b"
@@ -429,64 +498,5 @@
         ],
         "FamousLevel":57,
         "Link":"https:\/\/open.spotify.com\/artist\/7fJd7w897ouOZzDc6e3oyU"
-    },
-    {
-        "Artistname":"Lord's Child",
-        "Genre":[
-            "gospel r&b"
-        ],
-        "FamousLevel":49,
-        "Link":"https:\/\/open.spotify.com\/artist\/14EkDZQXCL0J9CpQ1tKIKC"
-    },
-    {
-        "Artistname":"ELEVATION RHYTHM",
-        "Genre":[
-            "worship",
-            "pop worship",
-            "christian pop",
-            "christian"
-        ],
-        "FamousLevel":64,
-        "Link":"https:\/\/open.spotify.com\/artist\/0qZ8aSF0iMCQI99AAXikF8"
-    },
-    {
-        "Artistname":"Antoine Bradford",
-        "Genre":[
-            "gospel r&b",
-            "christian folk",
-            "worship",
-            "christian alternative rock",
-            "christian"
-        ],
-        "FamousLevel":49,
-        "Link":"https:\/\/open.spotify.com\/artist\/1FYE37rOHOrxO1lHAQUkCl"
-    },
-    {
-        "Artistname":"Stevie Rizo",
-        "Genre":[
-            "gospel r&b",
-            "christian hip hop",
-            "christian"
-        ],
-        "FamousLevel":44,
-        "Link":"https:\/\/open.spotify.com\/artist\/2oL0lsdUDgJOSDTcXCf8BL"
-    },
-    {
-        "Artistname":"Kaye-Marie",
-        "Genre":[
-            "gospel r&b"
-        ],
-        "FamousLevel":36,
-        "Link":"https:\/\/open.spotify.com\/artist\/51V84X0Uw6QQ8a31yRLTeN"
-    },
-    {
-        "Artistname":"Sinach",
-        "Genre":[
-            "african gospel",
-            "gospel",
-            "worship"
-        ],
-        "FamousLevel":48,
-        "Link":"https:\/\/open.spotify.com\/artist\/6hKHFC67DZJNw9tg1l0lIe"
     }
 ]
