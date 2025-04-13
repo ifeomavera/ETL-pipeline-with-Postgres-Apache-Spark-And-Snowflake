@@ -328,11 +328,27 @@
         "link":null
     },
     {
+        "id":"spotify:track:1q03R3KP1HVkSywYa2MEb5",
+        "track_name":"Morning Devotion Worship",
+        "artist_name":"Grace Idowu",
+        "duration":424824,
+        "popularity":44,
+        "link":null
+    },
+    {
         "id":"spotify:track:1uTwNR68qPRWXOIYpnIv8Y",
         "track_name":"bright eyed",
         "artist_name":"Strings And Heart",
         "duration":120509,
-        "popularity":43,
+        "popularity":44,
+        "link":null
+    },
+    {
+        "id":"spotify:track:34NTzNkGn13gj2fp3eFARp",
+        "track_name":"In Christ Alone",
+        "artist_name":"Boyce Worship Collective",
+        "duration":280597,
+        "popularity":29,
         "link":null
     },
     {
@@ -360,6 +376,14 @@
         "link":null
     },
     {
+        "id":"spotify:track:2q0RmOoOY6QYQoep7btEhC",
+        "track_name":"Like a Baby - Special Version",
+        "artist_name":"Awinnah",
+        "duration":169278,
+        "popularity":30,
+        "link":null
+    },
+    {
         "id":"spotify:track:4sZLEFie6r4WxCjCUzFv4f",
         "track_name":"Faithful",
         "artist_name":"Cade Kellam",
@@ -373,30 +397,6 @@
         "artist_name":"G.E.S",
         "duration":163001,
         "popularity":45,
-        "link":null
-    },
-    {
-        "id":"spotify:track:0qyUwH5jIuOthSmYb4wy1n",
-        "track_name":"Shepherd - Live",
-        "artist_name":"Cade Kellam",
-        "duration":457094,
-        "popularity":19,
-        "link":null
-    },
-    {
-        "id":"spotify:track:6eAhDB7pprRzDYvCnOfrQb",
-        "track_name":"Nineteen (Prelude)",
-        "artist_name":"Cecily",
-        "duration":119210,
-        "popularity":14,
-        "link":null
-    },
-    {
-        "id":"spotify:track:6tM4E2Je4omnd7FwHt6tyf",
-        "track_name":"Te Amo",
-        "artist_name":"121SELAH",
-        "duration":226666,
-        "popularity":46,
         "link":null
     }
 ]
