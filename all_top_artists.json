@@ -43,7 +43,7 @@
             "gospel",
             "worship"
         ],
-        "FamousLevel":46,
+        "FamousLevel":47,
         "Link":"https:\/\/open.spotify.com\/artist\/6zgGhksQtJmJzAOalAeUSV"
     },
     {
@@ -193,7 +193,7 @@
         "Genre":[
             "worship"
         ],
-        "FamousLevel":31,
+        "FamousLevel":30,
         "Link":"https:\/\/open.spotify.com\/artist\/2ezPNfNGOAwgmDCX51mhf3"
     },
     {
@@ -288,7 +288,7 @@
             "christian pop",
             "pop worship"
         ],
-        "FamousLevel":43,
+        "FamousLevel":42,
         "Link":"https:\/\/open.spotify.com\/artist\/1zZDuiPTuQzsbXPj4N58G4"
     },
     {
@@ -364,7 +364,7 @@
             "worship",
             "gospel r&b"
         ],
-        "FamousLevel":76,
+        "FamousLevel":77,
         "Link":"https:\/\/open.spotify.com\/artist\/1scVfBymTr3CeZ4imMj1QJ"
     },
     {
@@ -396,7 +396,7 @@
             "gospel r&b",
             "gospel"
         ],
-        "FamousLevel":47,
+        "FamousLevel":46,
         "Link":"https:\/\/open.spotify.com\/artist\/0ULEmCfIKnFCdZfZsTmxG5"
     },
     {
@@ -421,7 +421,7 @@
         "Genre":[
             "gospel r&b"
         ],
-        "FamousLevel":37,
+        "FamousLevel":36,
         "Link":"https:\/\/open.spotify.com\/artist\/61kGREOrmdzaTsCVSkVXw1"
     },
     {
@@ -557,5 +557,24 @@
         ],
         "FamousLevel":60,
         "Link":"https:\/\/open.spotify.com\/artist\/6egyCFgiJ1j941PaxKoWJD"
+    },
+    {
+        "Artistname":"Ryan Ofei",
+        "Genre":[
+            "gospel r&b",
+            "gospel",
+            "african gospel",
+            "worship"
+        ],
+        "FamousLevel":51,
+        "Link":"https:\/\/open.spotify.com\/artist\/1pQ5oAMGcFhkkuLqGJQUCd"
+    },
+    {
+        "Artistname":"HHPG",
+        "Genre":[
+            "african gospel"
+        ],
+        "FamousLevel":28,
+        "Link":"https:\/\/open.spotify.com\/artist\/2aoTlgNAkhR2yHzNvfC1pM"
     }
 ]

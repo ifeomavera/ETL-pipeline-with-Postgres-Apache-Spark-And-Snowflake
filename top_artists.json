@@ -30,6 +30,17 @@
         "Link":"https:\/\/open.spotify.com\/artist\/1GWnsRvGpSmKxHOjMQah4k"
     },
     {
+        "Artistname":"Sarah Nathali\u00e9",
+        "Genre":[
+            "gospel r&b",
+            "christian pop",
+            "pop worship",
+            "christian"
+        ],
+        "FamousLevel":42,
+        "Link":"https:\/\/open.spotify.com\/artist\/1O8Ex2yuddkMknV0uM2oni"
+    },
+    {
         "Artistname":"G.E.S",
         "Genre":[
             "gospel r&b"
@@ -63,7 +74,7 @@
             "gospel",
             "worship"
         ],
-        "FamousLevel":46,
+        "FamousLevel":47,
         "Link":"https:\/\/open.spotify.com\/artist\/6zgGhksQtJmJzAOalAeUSV"
     },
     {
@@ -94,17 +105,6 @@
         ],
         "FamousLevel":27,
         "Link":"https:\/\/open.spotify.com\/artist\/0S90F2l4d1G4ZeqVvDLy3q"
-    },
-    {
-        "Artistname":"Sarah Nathali\u00e9",
-        "Genre":[
-            "gospel r&b",
-            "christian pop",
-            "pop worship",
-            "christian"
-        ],
-        "FamousLevel":42,
-        "Link":"https:\/\/open.spotify.com\/artist\/1O8Ex2yuddkMknV0uM2oni"
     },
     {
         "Artistname":"Sarah Juers",
@@ -154,15 +154,6 @@
         "Link":"https:\/\/open.spotify.com\/artist\/2NUERBKvU6ghDuqmLReybs"
     },
     {
-        "Artistname":"Isaac Wheadon",
-        "Genre":[
-            "gospel r&b",
-            "cedm"
-        ],
-        "FamousLevel":34,
-        "Link":"https:\/\/open.spotify.com\/artist\/3JdtFl0iWwZTNO5ul5nP5e"
-    },
-    {
         "Artistname":"Moses Bliss",
         "Genre":[
             "african gospel",
@@ -171,6 +162,15 @@
         ],
         "FamousLevel":60,
         "Link":"https:\/\/open.spotify.com\/artist\/79MTG7HPurBgQ0ilwJ4AgM"
+    },
+    {
+        "Artistname":"Isaac Wheadon",
+        "Genre":[
+            "gospel r&b",
+            "cedm"
+        ],
+        "FamousLevel":34,
+        "Link":"https:\/\/open.spotify.com\/artist\/3JdtFl0iWwZTNO5ul5nP5e"
     },
     {
         "Artistname":"kaestrings",
@@ -189,7 +189,7 @@
             "gospel r&b",
             "gospel"
         ],
-        "FamousLevel":47,
+        "FamousLevel":46,
         "Link":"https:\/\/open.spotify.com\/artist\/0ULEmCfIKnFCdZfZsTmxG5"
     },
     {
@@ -342,6 +342,17 @@
         "Link":"https:\/\/open.spotify.com\/artist\/7yAymwuYh9RcpX84GSNIq2"
     },
     {
+        "Artistname":"Ryan Ofei",
+        "Genre":[
+            "gospel r&b",
+            "gospel",
+            "african gospel",
+            "worship"
+        ],
+        "FamousLevel":51,
+        "Link":"https:\/\/open.spotify.com\/artist\/1pQ5oAMGcFhkkuLqGJQUCd"
+    },
+    {
         "Artistname":"Forrest Frank",
         "Genre":[
             "christian hip hop",
@@ -351,7 +362,7 @@
             "worship",
             "gospel r&b"
         ],
-        "FamousLevel":76,
+        "FamousLevel":77,
         "Link":"https:\/\/open.spotify.com\/artist\/1scVfBymTr3CeZ4imMj1QJ"
     },
     {
@@ -379,6 +390,14 @@
         ],
         "FamousLevel":60,
         "Link":"https:\/\/open.spotify.com\/artist\/19TPpTWkgX13Qc2stbqVoP"
+    },
+    {
+        "Artistname":"HHPG",
+        "Genre":[
+            "african gospel"
+        ],
+        "FamousLevel":28,
+        "Link":"https:\/\/open.spotify.com\/artist\/2aoTlgNAkhR2yHzNvfC1pM"
     },
     {
         "Artistname":"Verses",
@@ -422,7 +441,7 @@
             "christian pop",
             "pop worship"
         ],
-        "FamousLevel":43,
+        "FamousLevel":42,
         "Link":"https:\/\/open.spotify.com\/artist\/1zZDuiPTuQzsbXPj4N58G4"
     },
     {
@@ -430,7 +449,7 @@
         "Genre":[
             "worship"
         ],
-        "FamousLevel":31,
+        "FamousLevel":30,
         "Link":"https:\/\/open.spotify.com\/artist\/2ezPNfNGOAwgmDCX51mhf3"
     },
     {
@@ -469,7 +488,7 @@
         "Genre":[
             "gospel r&b"
         ],
-        "FamousLevel":37,
+        "FamousLevel":36,
         "Link":"https:\/\/open.spotify.com\/artist\/61kGREOrmdzaTsCVSkVXw1"
     },
     {
@@ -480,23 +499,5 @@
         ],
         "FamousLevel":60,
         "Link":"https:\/\/open.spotify.com\/artist\/6egyCFgiJ1j941PaxKoWJD"
-    },
-    {
-        "Artistname":"Emmanuel Zamar",
-        "Genre":[
-            "gospel r&b"
-        ],
-        "FamousLevel":34,
-        "Link":"https:\/\/open.spotify.com\/artist\/6h6ySmE1mgWa3M9UADYJt0"
-    },
-    {
-        "Artistname":"Sunmisola Agbebi",
-        "Genre":[
-            "african gospel",
-            "gospel",
-            "worship"
-        ],
-        "FamousLevel":57,
-        "Link":"https:\/\/open.spotify.com\/artist\/7fJd7w897ouOZzDc6e3oyU"
     }
 ]
