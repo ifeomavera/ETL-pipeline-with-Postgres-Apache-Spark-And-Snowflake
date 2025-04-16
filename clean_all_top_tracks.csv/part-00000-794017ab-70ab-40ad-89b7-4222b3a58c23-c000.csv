@@ -1,7 +1,7 @@
 artist_name,duration,id,popularity,track_name,minutes,seconds
 Claire Leslie,3:00,4HR5BN6hc4AmcPO1NK0fgK,45,24/7,3,0
 Grace Marr,2:35,5BH8UixV8wu3FR5xJksIJN,2,Belong,2,35
-Cade Kellam,4:02,7LcJx95sWXpqCMLxQJfhMM,45,Blessed,4,2
+Cade Kellam,4:02,7LcJx95sWXpqCMLxQJfhMM,46,Blessed,4,2
 OAKS,3:16,2TUW3yDwsfNcBOtk8RPSqu,27,Clean,3,16
 Gabriel Eziashi,13:37,2SHWUh366VIpgpDHxxtnID,36,Contemporary Praise Medley - Live,13,37
 ONE HOUSE,5:04,4Cr2oltVAPC6rAUMTgot0M,30,Down In My Heart,5,4
@@ -11,6 +11,7 @@ Cade Kellam,4:54,4sZLEFie6r4WxCjCUzFv4f,25,Faithful,4,54
 Claire Leslie,2:50,4PqpoY1wcn4GsM4gKw7lBO,37,Falling At The Thought Of You,2,50
 Samantha Ebert,3:46,0KIv0Lho9vsPCj8Sac21IV,54,Flowers,3,46
 Alabaster Co.,5:32,0FYUGkkaI0OpnHVeH44kjb,16,For the Beauty of the Earth,5,32
+G.E.S,3:14,7fF2rQnUkELUq0AzByzH9K,42,Free My Mind,3,14
 G.E.S,2:10,5JD1bFe82TNbO4TaJiyGj5,40,Giving It to You,2,10
 Paul Tomisin,7:03,4ZWMGSggxHp87KTvRoyfFn,45,Grace Story,7,3
 sxxnt.,1:28,3MuYxyhq6m5OLG6NCA73RX,37,Great Is Thy Faithfulness (Reprise),1,28
@@ -20,14 +21,14 @@ sxxnt.,3:48,5LF2W7bxWbF4QiaL6QXYSq,37,I Surrender All,3,48
 Sarah Juers,3:46,4V2rRHpWP0cH2GwsSe3aqg,45,I can always find You,3,46
 Cade Kellam,4:40,4HBcbRSYjIcUA1I7gTqZlQ,14,Idols,4,40
 Boyce Worship Collective,4:40,34NTzNkGn13gj2fp3eFARp,29,In Christ Alone,4,40
-Bidemi Olaoba,4:29,6OJooIGQRv2xjNr2AEvckI,51,Isi Gini,4,29
+Bidemi Olaoba,4:29,6OJooIGQRv2xjNr2AEvckI,52,Isi Gini,4,29
 Bidemi Olaoba,3:08,7zCbwXUaFqcNZY3gZDEn4k,43,Iyanu,3,8
 Lofi Hymns.,3:06,51dzl3snlEyQOd10f1brVh,37,Jesus paid it all.,3,6
 sxxnt.,2:53,5MgOEKlQ9eQMD9ysnf5xsX,39,"Jesus, Jesus",2,53
 Claire Leslie,2:44,1kxOHIlL5ae2zMPrU9aqYC,44,Light Up,2,44
 Awinnah,2:49,2q0RmOoOY6QYQoep7btEhC,30,Like a Baby - Special Version,2,49
 Cade Kellam,2:16,6vjatxFM1vEdZVuJoB1e4e,25,Like a Child,2,16
-Cade Kellam,4:39,0aw4lGVn0ZfD6Q2AKWEd1o,43,Lilies,4,39
+Cade Kellam,4:39,0aw4lGVn0ZfD6Q2AKWEd1o,44,Lilies,4,39
 Anendlessocean,3:28,6dFqmkl3LQjUI8j3DuRc1M,46,Lmly,3,28
 sxxnt.,3:34,3OmgBKSdpq6LPLb9wN7UYy,36,Love & Sorrow,3,34
 Leslie Perez,4:56,4ZEHLlz2jMr2yDngXIKiCe,23,Make It Rain,4,56
@@ -49,20 +50,22 @@ G.E.S,2:43,6iiAykg47kO4pXbdzpI65p,45,RUN,2,43
 G.E.S,3:02,7ouvLatrak6SvCOileFsiO,30,Righteous Man,3,2
 Cade Kellam,7:37,0qyUwH5jIuOthSmYb4wy1n,19,Shepherd - Live,7,37
 Alabaster Co.,2:35,5dfYyiSz7BfanN5MGflDBm,31,Shepherds,2,35
-ELEVATION RHYTHM,4:40,3HQ9mUzgLQ6Hvl1Q1YiiKN,60,Sing Of Your Love,4,40
+ELEVATION RHYTHM,4:40,3HQ9mUzgLQ6Hvl1Q1YiiKN,61,Sing Of Your Love,4,40
 Cade Kellam,2:54,2N0wbZGLuD4MhlHYDGtPAg,29,Stars,2,54
 sxxnt.,4:04,5JQTZfCKj3CRRFnfGRCZew,38,"Sun, Moon & Stars",4,4
-Sarah Nathalié,3:03,50EP0X3UiPFmsSxG2Nqsvu,26,Sunset,3,3
-121SELAH,3:46,6tM4E2Je4omnd7FwHt6tyf,46,Te Amo,3,46
+Sarah Nathalié,3:03,50EP0X3UiPFmsSxG2Nqsvu,29,Sunset,3,3
+121SELAH,3:46,6tM4E2Je4omnd7FwHt6tyf,47,Te Amo,3,46
 Bidemi Olaoba,2:49,0Iy5fEEflk6ZLAwlezqXVE,44,The Anthem (Iwo Tani),2,49
 Cade Kellam,4:17,37YidIwgcS61ZcHKeGWCOZ,29,Through the Storm,4,17
+Asha Elia,1:49,5jRTgw2lvOGX1kWjvh6GpY,15,Trust,1,49
 Claire Leslie,2:46,2axBVre427GCNKwAmA2V3G,36,Twenty Something,2,46
 sxxnt.,2:22,04a2j62vStA6fwFMlR7Vq7,40,What Can Wash Away?,2,22
 Katie Bethan,4:10,20yuDEDFVzyIAnu1TPYtx3,32,When All Creation Groans,4,10
+Asha Elia,2:01,3Kuj8MAYGHTihXbVsVHr49,23,Who Woulda Known,2,1
 Cade Kellam,3:44,3eBi1gGlpJVvBC061Txf1G,17,Wildfire,3,44
 Josiah Queen,2:45,2MB2pKgf2fWBGKcewyUBUS,69,Yesterday Is Dead,2,45
 Sound Of Salem,2:00,2wsRC2hWCDbyYURZ4C65hu,27,You Are The One Alive In Me RAW,2,0
-Strings And Heart,2:00,1uTwNR68qPRWXOIYpnIv8Y,44,bright eyed,2,0
+Strings And Heart,2:00,1uTwNR68qPRWXOIYpnIv8Y,45,bright eyed,2,0
 Strings And Heart,2:02,1MlwlvguOnqk3vZCAWe168,56,dopamine,2,2
 Strings And Heart,2:17,1oZzBciFi4arS8MrBkso9H,52,empty airport,2,17
 Strings And Heart,2:57,5uHmaCMrEFNSgUbV4sPJS8,62,evergreen love,2,57
