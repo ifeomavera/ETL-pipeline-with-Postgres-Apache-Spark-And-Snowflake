@@ -36,7 +36,15 @@
         "track_name":"Contemporary Praise Medley - Live",
         "artist_name":"Gabriel Eziashi",
         "duration":817850,
-        "popularity":36,
+        "popularity":35,
+        "link":null
+    },
+    {
+        "id":"spotify:track:3knblvtjbcTtEk0HCiJHZK",
+        "track_name":"Creep - Live",
+        "artist_name":"Kelly Clarkson",
+        "duration":248546,
+        "popularity":52,
         "link":null
     },
     {
@@ -140,7 +148,7 @@
         "track_name":"How Great Thou Art",
         "artist_name":"Don Moen",
         "duration":263720,
-        "popularity":52,
+        "popularity":53,
         "link":null
     },
     {
@@ -204,7 +212,7 @@
         "track_name":"Jesus, Jesus",
         "artist_name":"sxxnt.",
         "duration":173114,
-        "popularity":39,
+        "popularity":40,
         "link":null
     },
     {
@@ -309,6 +317,14 @@
         "artist_name":"Remii",
         "duration":186666,
         "popularity":40,
+        "link":null
+    },
+    {
+        "id":"spotify:track:17bCx9UXmnmts0ly7dO1y7",
+        "track_name":"NO L's",
+        "artist_name":"Forrest Frank",
+        "duration":147692,
+        "popularity":62,
         "link":null
     },
     {
@@ -436,7 +452,7 @@
         "track_name":"Sunset",
         "artist_name":"Sarah Nathali\u00e9",
         "duration":183355,
-        "popularity":31,
+        "popularity":32,
         "link":null
     },
     {
@@ -484,7 +500,7 @@
         "track_name":"What Can Wash Away?",
         "artist_name":"sxxnt.",
         "duration":142717,
-        "popularity":40,
+        "popularity":41,
         "link":null
     },
     {
@@ -516,7 +532,7 @@
         "track_name":"Yesterday Is Dead",
         "artist_name":"Josiah Queen",
         "duration":165992,
-        "popularity":69,
+        "popularity":70,
         "link":null
     },
     {
@@ -532,7 +548,7 @@
         "track_name":"bright eyed",
         "artist_name":"Strings And Heart",
         "duration":120509,
-        "popularity":45,
+        "popularity":46,
         "link":null
     },
     {
@@ -540,7 +556,7 @@
         "track_name":"dopamine",
         "artist_name":"Strings And Heart",
         "duration":122391,
-        "popularity":56,
+        "popularity":57,
         "link":null
     },
     {
@@ -556,7 +572,7 @@
         "track_name":"evergreen love",
         "artist_name":"Strings And Heart",
         "duration":177804,
-        "popularity":62,
+        "popularity":63,
         "link":null
     },
     {

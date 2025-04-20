@@ -129,6 +129,19 @@
         "Link":"https:\/\/open.spotify.com\/artist\/7eEP4TA1RioDH3OBKPcQEC"
     },
     {
+        "Artistname":"Forrest Frank",
+        "Genre":[
+            "christian hip hop",
+            "christian pop",
+            "pop worship",
+            "christian",
+            "worship",
+            "gospel r&b"
+        ],
+        "FamousLevel":77,
+        "Link":"https:\/\/open.spotify.com\/artist\/1scVfBymTr3CeZ4imMj1QJ"
+    },
+    {
         "Artistname":"Sarah Juers",
         "Genre":[
             "gospel r&b",
@@ -272,7 +285,7 @@
             "gospel",
             "worship"
         ],
-        "FamousLevel":45,
+        "FamousLevel":46,
         "Link":"https:\/\/open.spotify.com\/artist\/77XL22LWpJkV8djPjCNoNH"
     },
     {
@@ -350,8 +363,33 @@
             "pop worship",
             "christian pop"
         ],
-        "FamousLevel":70,
+        "FamousLevel":71,
         "Link":"https:\/\/open.spotify.com\/artist\/7yAymwuYh9RcpX84GSNIq2"
+    },
+    {
+        "Artistname":"Terrian",
+        "Genre":[
+            "gospel r&b",
+            "christian pop",
+            "pop worship",
+            "christian",
+            "worship",
+            "gospel"
+        ],
+        "FamousLevel":60,
+        "Link":"https:\/\/open.spotify.com\/artist\/19TPpTWkgX13Qc2stbqVoP"
+    },
+    {
+        "Artistname":"Antoine Bradford",
+        "Genre":[
+            "gospel r&b",
+            "christian folk",
+            "worship",
+            "christian alternative rock",
+            "christian"
+        ],
+        "FamousLevel":49,
+        "Link":"https:\/\/open.spotify.com\/artist\/1FYE37rOHOrxO1lHAQUkCl"
     },
     {
         "Artistname":"Ryan Ofei",
@@ -363,19 +401,6 @@
         ],
         "FamousLevel":51,
         "Link":"https:\/\/open.spotify.com\/artist\/1pQ5oAMGcFhkkuLqGJQUCd"
-    },
-    {
-        "Artistname":"Forrest Frank",
-        "Genre":[
-            "christian hip hop",
-            "christian pop",
-            "pop worship",
-            "christian",
-            "worship",
-            "gospel r&b"
-        ],
-        "FamousLevel":77,
-        "Link":"https:\/\/open.spotify.com\/artist\/1scVfBymTr3CeZ4imMj1QJ"
     },
     {
         "Artistname":"MUCH MORE",
@@ -399,25 +424,25 @@
         "Link":"https:\/\/open.spotify.com\/artist\/0q8s2UD3GPKFfYuXWbvRVo"
     },
     {
-        "Artistname":"Terrian",
-        "Genre":[
-            "gospel r&b",
-            "christian pop",
-            "pop worship",
-            "christian",
-            "worship",
-            "gospel"
-        ],
-        "FamousLevel":60,
-        "Link":"https:\/\/open.spotify.com\/artist\/19TPpTWkgX13Qc2stbqVoP"
-    },
-    {
         "Artistname":"HHPG",
         "Genre":[
             "african gospel"
         ],
         "FamousLevel":28,
         "Link":"https:\/\/open.spotify.com\/artist\/2aoTlgNAkhR2yHzNvfC1pM"
+    },
+    {
+        "Artistname":"CalledOut Music",
+        "Genre":[
+            "gospel r&b",
+            "african gospel",
+            "gospel",
+            "worship",
+            "christian pop",
+            "christian"
+        ],
+        "FamousLevel":53,
+        "Link":"https:\/\/open.spotify.com\/artist\/3VY7IlU2547DIC1ca88lRH"
     },
     {
         "Artistname":"Verses",
@@ -447,6 +472,14 @@
         "Link":"https:\/\/open.spotify.com\/artist\/62ljNQ8SnPR741I6DWY8II"
     },
     {
+        "Artistname":"Kachi Annuncia",
+        "Genre":[
+            "gospel r&b"
+        ],
+        "FamousLevel":28,
+        "Link":"https:\/\/open.spotify.com\/artist\/1BX5LtwtToqHi5kRICFlYf"
+    },
+    {
         "Artistname":"Eris Ford",
         "Genre":[
             "gospel r&b",
@@ -465,19 +498,6 @@
         "Link":"https:\/\/open.spotify.com\/artist\/2ezPNfNGOAwgmDCX51mhf3"
     },
     {
-        "Artistname":"CalledOut Music",
-        "Genre":[
-            "gospel r&b",
-            "african gospel",
-            "gospel",
-            "worship",
-            "christian pop",
-            "christian"
-        ],
-        "FamousLevel":53,
-        "Link":"https:\/\/open.spotify.com\/artist\/3VY7IlU2547DIC1ca88lRH"
-    },
-    {
         "Artistname":"Rock City Worship",
         "Genre":[
             "pop worship",
@@ -488,24 +508,5 @@
         ],
         "FamousLevel":39,
         "Link":"https:\/\/open.spotify.com\/artist\/3yAv8udgy9z6yF6rREcgfB"
-    },
-    {
-        "Artistname":"Tribl",
-        "Genre":[
-            "worship",
-            "gospel"
-        ],
-        "FamousLevel":45,
-        "Link":"https:\/\/open.spotify.com\/artist\/41vLsivOowwJtkhNfEQjyV"
-    },
-    {
-        "Artistname":"Tim Godfrey",
-        "Genre":[
-            "african gospel",
-            "gospel",
-            "worship"
-        ],
-        "FamousLevel":49,
-        "Link":"https:\/\/open.spotify.com\/artist\/509E47UmbRPKWPXOMaieh2"
     }
 ]

@@ -8,6 +8,14 @@
         "link":null
     },
     {
+        "id":"spotify:track:3knblvtjbcTtEk0HCiJHZK",
+        "track_name":"Creep - Live",
+        "artist_name":"Kelly Clarkson",
+        "duration":248546,
+        "popularity":52,
+        "link":null
+    },
+    {
         "id":"spotify:track:7ouvLatrak6SvCOileFsiO",
         "track_name":"Righteous Man",
         "artist_name":"G.E.S",
@@ -28,7 +36,7 @@
         "track_name":"evergreen love",
         "artist_name":"Strings And Heart",
         "duration":177804,
-        "popularity":62,
+        "popularity":63,
         "link":null
     },
     {
@@ -76,7 +84,7 @@
         "track_name":"dopamine",
         "artist_name":"Strings And Heart",
         "duration":122391,
-        "popularity":56,
+        "popularity":57,
         "link":null
     },
     {
@@ -92,7 +100,7 @@
         "track_name":"Jesus, Jesus",
         "artist_name":"sxxnt.",
         "duration":173114,
-        "popularity":39,
+        "popularity":40,
         "link":null
     },
     {
@@ -141,6 +149,14 @@
         "artist_name":"kaestrings",
         "duration":140903,
         "popularity":38,
+        "link":null
+    },
+    {
+        "id":"spotify:track:50EP0X3UiPFmsSxG2Nqsvu",
+        "track_name":"Sunset",
+        "artist_name":"Sarah Nathali\u00e9",
+        "duration":183355,
+        "popularity":32,
         "link":null
     },
     {
@@ -208,14 +224,6 @@
         "link":null
     },
     {
-        "id":"spotify:track:50EP0X3UiPFmsSxG2Nqsvu",
-        "track_name":"Sunset",
-        "artist_name":"Sarah Nathali\u00e9",
-        "duration":183355,
-        "popularity":31,
-        "link":null
-    },
-    {
         "id":"spotify:track:2alkWeDWQSytDexz9nhMZ1",
         "track_name":"Psalm 46",
         "artist_name":"Tekoa",
@@ -236,7 +244,7 @@
         "track_name":"What Can Wash Away?",
         "artist_name":"sxxnt.",
         "duration":142717,
-        "popularity":40,
+        "popularity":41,
         "link":null
     },
     {
@@ -252,7 +260,7 @@
         "track_name":"Yesterday Is Dead",
         "artist_name":"Josiah Queen",
         "duration":165992,
-        "popularity":69,
+        "popularity":70,
         "link":null
     },
     {
@@ -260,7 +268,7 @@
         "track_name":"Contemporary Praise Medley - Live",
         "artist_name":"Gabriel Eziashi",
         "duration":817850,
-        "popularity":36,
+        "popularity":35,
         "link":null
     },
     {
@@ -344,6 +352,14 @@
         "link":null
     },
     {
+        "id":"spotify:track:17bCx9UXmnmts0ly7dO1y7",
+        "track_name":"NO L's",
+        "artist_name":"Forrest Frank",
+        "duration":147692,
+        "popularity":62,
+        "link":null
+    },
+    {
         "id":"spotify:track:37YidIwgcS61ZcHKeGWCOZ",
         "track_name":"Through the Storm",
         "artist_name":"Cade Kellam",
@@ -364,7 +380,7 @@
         "track_name":"How Great Thou Art",
         "artist_name":"Don Moen",
         "duration":263720,
-        "popularity":52,
+        "popularity":53,
         "link":null
     },
     {
@@ -380,23 +396,7 @@
         "track_name":"bright eyed",
         "artist_name":"Strings And Heart",
         "duration":120509,
-        "popularity":45,
-        "link":null
-    },
-    {
-        "id":"spotify:track:4MHtOzMHR64BDwUvpcFr3Q",
-        "track_name":"more of you - single version",
-        "artist_name":"Strings And Heart",
-        "duration":169219,
-        "popularity":45,
-        "link":null
-    },
-    {
-        "id":"spotify:track:34NTzNkGn13gj2fp3eFARp",
-        "track_name":"In Christ Alone",
-        "artist_name":"Boyce Worship Collective",
-        "duration":280597,
-        "popularity":30,
+        "popularity":46,
         "link":null
     }
 ]

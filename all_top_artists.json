@@ -351,7 +351,7 @@
             "pop worship",
             "christian pop"
         ],
-        "FamousLevel":70,
+        "FamousLevel":71,
         "Link":"https:\/\/open.spotify.com\/artist\/7yAymwuYh9RcpX84GSNIq2"
     },
     {
@@ -448,7 +448,7 @@
             "gospel",
             "worship"
         ],
-        "FamousLevel":45,
+        "FamousLevel":46,
         "Link":"https:\/\/open.spotify.com\/artist\/77XL22LWpJkV8djPjCNoNH"
     },
     {
@@ -601,5 +601,13 @@
         ],
         "FamousLevel":53,
         "Link":"https:\/\/open.spotify.com\/artist\/3VY7IlU2547DIC1ca88lRH"
+    },
+    {
+        "Artistname":"Kachi Annuncia",
+        "Genre":[
+            "gospel r&b"
+        ],
+        "FamousLevel":28,
+        "Link":"https:\/\/open.spotify.com\/artist\/1BX5LtwtToqHi5kRICFlYf"
     }
 ]
