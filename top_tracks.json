@@ -4,7 +4,7 @@
         "track_name":"Sing Of Your Love",
         "artist_name":"ELEVATION RHYTHM",
         "duration":280374,
-        "popularity":61,
+        "popularity":62,
         "link":null
     },
     {
@@ -12,7 +12,7 @@
         "track_name":"Creep - Live",
         "artist_name":"Kelly Clarkson",
         "duration":248546,
-        "popularity":52,
+        "popularity":53,
         "link":null
     },
     {
@@ -132,7 +132,7 @@
         "track_name":"NO L's",
         "artist_name":"Forrest Frank",
         "duration":147692,
-        "popularity":63,
+        "popularity":65,
         "link":null
     },
     {
@@ -196,7 +196,7 @@
         "track_name":"YOUR WAY'S BETTER",
         "artist_name":"Forrest Frank",
         "duration":198082,
-        "popularity":73,
+        "popularity":74,
         "link":null
     },
     {
@@ -216,11 +216,11 @@
         "link":null
     },
     {
-        "id":"spotify:track:2YfSEfmGirtcp6C6ZcLelL",
+        "id":"spotify:track:1716cky8w4roZox3AyO1zh",
         "track_name":"CELEBRATION",
         "artist_name":"Forrest Frank",
         "duration":161544,
-        "popularity":57,
+        "popularity":50,
         "link":null
     },
     {
@@ -360,11 +360,19 @@
         "link":null
     },
     {
+        "id":"spotify:track:5jRTgw2lvOGX1kWjvh6GpY",
+        "track_name":"Trust",
+        "artist_name":"Asha Elia",
+        "duration":109333,
+        "popularity":15,
+        "link":null
+    },
+    {
         "id":"spotify:track:2TUW3yDwsfNcBOtk8RPSqu",
         "track_name":"Clean",
         "artist_name":"OAKS",
         "duration":196130,
-        "popularity":27,
+        "popularity":26,
         "link":null
     },
     {
@@ -373,14 +381,6 @@
         "artist_name":"ONE HOUSE",
         "duration":304015,
         "popularity":30,
-        "link":null
-    },
-    {
-        "id":"spotify:track:5jRTgw2lvOGX1kWjvh6GpY",
-        "track_name":"Trust",
-        "artist_name":"Asha Elia",
-        "duration":109333,
-        "popularity":15,
         "link":null
     },
     {

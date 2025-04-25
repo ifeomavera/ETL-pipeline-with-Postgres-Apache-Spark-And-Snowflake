@@ -24,6 +24,14 @@
         "link":null
     },
     {
+        "id":"spotify:track:1716cky8w4roZox3AyO1zh",
+        "track_name":"CELEBRATION",
+        "artist_name":"Forrest Frank",
+        "duration":161544,
+        "popularity":50,
+        "link":null
+    },
+    {
         "id":"spotify:track:2YfSEfmGirtcp6C6ZcLelL",
         "track_name":"CELEBRATION",
         "artist_name":"Forrest Frank",
@@ -36,7 +44,7 @@
         "track_name":"Clean",
         "artist_name":"OAKS",
         "duration":196130,
-        "popularity":27,
+        "popularity":26,
         "link":null
     },
     {
@@ -52,7 +60,7 @@
         "track_name":"Creep - Live",
         "artist_name":"Kelly Clarkson",
         "duration":248546,
-        "popularity":52,
+        "popularity":53,
         "link":null
     },
     {
@@ -332,7 +340,7 @@
         "track_name":"NO L's",
         "artist_name":"Forrest Frank",
         "duration":147692,
-        "popularity":63,
+        "popularity":65,
         "link":null
     },
     {
@@ -436,7 +444,7 @@
         "track_name":"Sing Of Your Love",
         "artist_name":"ELEVATION RHYTHM",
         "duration":280374,
-        "popularity":61,
+        "popularity":62,
         "link":null
     },
     {
@@ -540,7 +548,7 @@
         "track_name":"YOUR WAY'S BETTER",
         "artist_name":"Forrest Frank",
         "duration":198082,
-        "popularity":73,
+        "popularity":74,
         "link":null
     },
     {

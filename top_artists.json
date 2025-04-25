@@ -189,6 +189,16 @@
         "Link":"https:\/\/open.spotify.com\/artist\/4g0d1qT8tKu3VcjBHr3FQ2"
     },
     {
+        "Artistname":"Annatoria",
+        "Genre":[
+            "gospel r&b",
+            "african gospel",
+            "gospel"
+        ],
+        "FamousLevel":52,
+        "Link":"https:\/\/open.spotify.com\/artist\/6008gjU9UTUCfLZoSun5SH"
+    },
+    {
         "Artistname":"Sondae",
         "Genre":[
             "gospel r&b",
@@ -201,16 +211,6 @@
         ],
         "FamousLevel":60,
         "Link":"https:\/\/open.spotify.com\/artist\/2PCl4hx9Qds8sjcnoWUdqp"
-    },
-    {
-        "Artistname":"Annatoria",
-        "Genre":[
-            "gospel r&b",
-            "african gospel",
-            "gospel"
-        ],
-        "FamousLevel":52,
-        "Link":"https:\/\/open.spotify.com\/artist\/6008gjU9UTUCfLZoSun5SH"
     },
     {
         "Artistname":"Madison Ryann Ward",
@@ -260,15 +260,6 @@
         "Link":"https:\/\/open.spotify.com\/artist\/3JdtFl0iWwZTNO5ul5nP5e"
     },
     {
-        "Artistname":"Rotimikeys",
-        "Genre":[
-            "african gospel",
-            "gospel"
-        ],
-        "FamousLevel":41,
-        "Link":"https:\/\/open.spotify.com\/artist\/6kMfCacgijUReCAskGVQwR"
-    },
-    {
         "Artistname":"ONE HOUSE",
         "Genre":[
             "worship",
@@ -277,6 +268,15 @@
         ],
         "FamousLevel":50,
         "Link":"https:\/\/open.spotify.com\/artist\/6RC9lZOZqIxeg4g38SXNLn"
+    },
+    {
+        "Artistname":"Rotimikeys",
+        "Genre":[
+            "african gospel",
+            "gospel"
+        ],
+        "FamousLevel":41,
+        "Link":"https:\/\/open.spotify.com\/artist\/6kMfCacgijUReCAskGVQwR"
     },
     {
         "Artistname":"Grace Idowu",
@@ -294,7 +294,7 @@
             "worship",
             "gospel"
         ],
-        "FamousLevel":51,
+        "FamousLevel":52,
         "Link":"https:\/\/open.spotify.com\/artist\/47UT3dPXB5ttLBnyM76GQc"
     },
     {
@@ -403,6 +403,14 @@
         "Link":"https:\/\/open.spotify.com\/artist\/1pQ5oAMGcFhkkuLqGJQUCd"
     },
     {
+        "Artistname":"Caleb Bachtel",
+        "Genre":[
+            "worship"
+        ],
+        "FamousLevel":31,
+        "Link":"https:\/\/open.spotify.com\/artist\/2ezPNfNGOAwgmDCX51mhf3"
+    },
+    {
         "Artistname":"MUCH MORE",
         "Genre":[
             "christian alternative rock",
@@ -420,8 +428,16 @@
         "Genre":[
             "gospel r&b"
         ],
-        "FamousLevel":40,
+        "FamousLevel":41,
         "Link":"https:\/\/open.spotify.com\/artist\/0q8s2UD3GPKFfYuXWbvRVo"
+    },
+    {
+        "Artistname":"Kachi Annuncia",
+        "Genre":[
+            "gospel r&b"
+        ],
+        "FamousLevel":29,
+        "Link":"https:\/\/open.spotify.com\/artist\/1BX5LtwtToqHi5kRICFlYf"
     },
     {
         "Artistname":"HHPG",
@@ -472,14 +488,6 @@
         "Link":"https:\/\/open.spotify.com\/artist\/62ljNQ8SnPR741I6DWY8II"
     },
     {
-        "Artistname":"Kachi Annuncia",
-        "Genre":[
-            "gospel r&b"
-        ],
-        "FamousLevel":28,
-        "Link":"https:\/\/open.spotify.com\/artist\/1BX5LtwtToqHi5kRICFlYf"
-    },
-    {
         "Artistname":"Eris Ford",
         "Genre":[
             "gospel r&b",
@@ -488,14 +496,6 @@
         ],
         "FamousLevel":43,
         "Link":"https:\/\/open.spotify.com\/artist\/1zZDuiPTuQzsbXPj4N58G4"
-    },
-    {
-        "Artistname":"Caleb Bachtel",
-        "Genre":[
-            "worship"
-        ],
-        "FamousLevel":31,
-        "Link":"https:\/\/open.spotify.com\/artist\/2ezPNfNGOAwgmDCX51mhf3"
     },
     {
         "Artistname":"Rock City Worship",
