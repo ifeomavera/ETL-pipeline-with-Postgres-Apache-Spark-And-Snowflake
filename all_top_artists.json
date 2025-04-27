@@ -75,7 +75,7 @@
             "christian",
             "worship"
         ],
-        "FamousLevel":59,
+        "FamousLevel":60,
         "Link":"https:\/\/open.spotify.com\/artist\/5lHDypXbNmHTDoFWpSTqXd"
     },
     {
@@ -185,7 +185,7 @@
             "pop worship",
             "christian"
         ],
-        "FamousLevel":45,
+        "FamousLevel":46,
         "Link":"https:\/\/open.spotify.com\/artist\/0B1cF1eekag30vXyt0YWMs"
     },
     {
@@ -507,7 +507,7 @@
             "pop worship",
             "christian pop"
         ],
-        "FamousLevel":60,
+        "FamousLevel":61,
         "Link":"https:\/\/open.spotify.com\/artist\/5nO7Yt0Jon48sqKR6VME4T"
     },
     {
@@ -609,5 +609,21 @@
         ],
         "FamousLevel":29,
         "Link":"https:\/\/open.spotify.com\/artist\/1BX5LtwtToqHi5kRICFlYf"
+    },
+    {
+        "Artistname":"Limoblaze",
+        "Genre":[
+            "african gospel",
+            "gospel r&b",
+            "gospel",
+            "christian hip hop",
+            "afrobeat",
+            "christian pop",
+            "christian",
+            "afrobeats",
+            "pop worship"
+        ],
+        "FamousLevel":58,
+        "Link":"https:\/\/open.spotify.com\/artist\/0liXA3xwx6pncxYQA30ahT"
     }
 ]
