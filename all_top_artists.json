@@ -181,8 +181,8 @@
             "christian alternative rock",
             "christian folk",
             "gospel r&b",
-            "christian pop",
             "pop worship",
+            "christian pop",
             "christian"
         ],
         "FamousLevel":46,
@@ -364,7 +364,7 @@
             "worship",
             "gospel r&b"
         ],
-        "FamousLevel":78,
+        "FamousLevel":79,
         "Link":"https:\/\/open.spotify.com\/artist\/1scVfBymTr3CeZ4imMj1QJ"
     },
     {
@@ -625,5 +625,13 @@
         ],
         "FamousLevel":58,
         "Link":"https:\/\/open.spotify.com\/artist\/0liXA3xwx6pncxYQA30ahT"
+    },
+    {
+        "Artistname":"Laufey",
+        "Genre":[
+            "Unknown Genre"
+        ],
+        "FamousLevel":82,
+        "Link":"https:\/\/open.spotify.com\/artist\/7gW0r5CkdEUMm42w9XpyZO"
     }
 ]
