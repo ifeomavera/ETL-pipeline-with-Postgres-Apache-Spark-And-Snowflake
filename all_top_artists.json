@@ -633,5 +633,27 @@
         ],
         "FamousLevel":82,
         "Link":"https:\/\/open.spotify.com\/artist\/7gW0r5CkdEUMm42w9XpyZO"
+    },
+    {
+        "Artistname":"Benjamin William Hastings",
+        "Genre":[
+            "worship",
+            "christian"
+        ],
+        "FamousLevel":62,
+        "Link":"https:\/\/open.spotify.com\/artist\/6CK4CBL0n07VdVZmfh40nm"
+    },
+    {
+        "Artistname":"River Valley AGES",
+        "Genre":[
+            "worship",
+            "cedm",
+            "pop worship",
+            "christian pop",
+            "christian",
+            "christian alternative rock"
+        ],
+        "FamousLevel":39,
+        "Link":"https:\/\/open.spotify.com\/artist\/3Y44hdG7tljyluN4wv9j5h"
     }
 ]
