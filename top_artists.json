@@ -37,7 +37,7 @@
             "gospel r&b",
             "christian alternative rock"
         ],
-        "FamousLevel":36,
+        "FamousLevel":37,
         "Link":"https:\/\/open.spotify.com\/artist\/1GWnsRvGpSmKxHOjMQah4k"
     },
     {
@@ -72,6 +72,16 @@
         "Link":"https:\/\/open.spotify.com\/artist\/5GkuwRdmvp8r48JCPwqM7E"
     },
     {
+        "Artistname":"Bidemi Olaoba",
+        "Genre":[
+            "african gospel",
+            "gospel",
+            "worship"
+        ],
+        "FamousLevel":47,
+        "Link":"https:\/\/open.spotify.com\/artist\/6zgGhksQtJmJzAOalAeUSV"
+    },
+    {
         "Artistname":"Asha Elia",
         "Genre":[
             "gospel r&b",
@@ -91,16 +101,6 @@
         ],
         "FamousLevel":45,
         "Link":"https:\/\/open.spotify.com\/artist\/4hryzFSB8IYFIaBba9jUvT"
-    },
-    {
-        "Artistname":"Bidemi Olaoba",
-        "Genre":[
-            "african gospel",
-            "gospel",
-            "worship"
-        ],
-        "FamousLevel":47,
-        "Link":"https:\/\/open.spotify.com\/artist\/6zgGhksQtJmJzAOalAeUSV"
     },
     {
         "Artistname":"Sinmidele",
@@ -138,7 +138,7 @@
             "gospel",
             "worship"
         ],
-        "FamousLevel":58,
+        "FamousLevel":59,
         "Link":"https:\/\/open.spotify.com\/artist\/7eEP4TA1RioDH3OBKPcQEC"
     },
     {
@@ -249,6 +249,15 @@
         "Link":"https:\/\/open.spotify.com\/artist\/15AlBadiR2gLPibtqELUH3"
     },
     {
+        "Artistname":"Benjamin William Hastings",
+        "Genre":[
+            "worship",
+            "christian"
+        ],
+        "FamousLevel":62,
+        "Link":"https:\/\/open.spotify.com\/artist\/6CK4CBL0n07VdVZmfh40nm"
+    },
+    {
         "Artistname":"K3ndrick",
         "Genre":[
             "african gospel",
@@ -297,6 +306,29 @@
         "Link":"https:\/\/open.spotify.com\/artist\/77XL22LWpJkV8djPjCNoNH"
     },
     {
+        "Artistname":"MUCH MORE",
+        "Genre":[
+            "christian alternative rock",
+            "christian folk",
+            "gospel r&b",
+            "pop worship",
+            "christian pop",
+            "christian"
+        ],
+        "FamousLevel":46,
+        "Link":"https:\/\/open.spotify.com\/artist\/0B1cF1eekag30vXyt0YWMs"
+    },
+    {
+        "Artistname":"Joepraize",
+        "Genre":[
+            "african gospel",
+            "gospel",
+            "worship"
+        ],
+        "FamousLevel":41,
+        "Link":"https:\/\/open.spotify.com\/artist\/36zaJBikfrPslhG3cYnv8s"
+    },
+    {
         "Artistname":"Jesus Image",
         "Genre":[
             "worship",
@@ -327,6 +359,29 @@
         ],
         "FamousLevel":42,
         "Link":"https:\/\/open.spotify.com\/artist\/1L9zhXcitRv35NwUZmwBZ4"
+    },
+    {
+        "Artistname":"CalledOut Music",
+        "Genre":[
+            "gospel r&b",
+            "african gospel",
+            "gospel",
+            "worship",
+            "christian pop",
+            "christian"
+        ],
+        "FamousLevel":53,
+        "Link":"https:\/\/open.spotify.com\/artist\/3VY7IlU2547DIC1ca88lRH"
+    },
+    {
+        "Artistname":"Maverick City Music",
+        "Genre":[
+            "worship",
+            "gospel",
+            "christian"
+        ],
+        "FamousLevel":73,
+        "Link":"https:\/\/open.spotify.com\/artist\/58r1rB5t3VF5X6yXGPequV"
     },
     {
         "Artistname":"Joe L Barnes",
@@ -387,19 +442,6 @@
         "Link":"https:\/\/open.spotify.com\/artist\/7yAymwuYh9RcpX84GSNIq2"
     },
     {
-        "Artistname":"MUCH MORE",
-        "Genre":[
-            "christian alternative rock",
-            "christian folk",
-            "gospel r&b",
-            "pop worship",
-            "christian pop",
-            "christian"
-        ],
-        "FamousLevel":46,
-        "Link":"https:\/\/open.spotify.com\/artist\/0B1cF1eekag30vXyt0YWMs"
-    },
-    {
         "Artistname":"Ri-An",
         "Genre":[
             "gospel r&b"
@@ -440,13 +482,20 @@
         "Link":"https:\/\/open.spotify.com\/artist\/2ezPNfNGOAwgmDCX51mhf3"
     },
     {
-        "Artistname":"Benjamin William Hastings",
+        "Artistname":"Stephen Sanchez",
         "Genre":[
-            "worship",
-            "christian"
+            "Unknown Genre"
         ],
-        "FamousLevel":62,
-        "Link":"https:\/\/open.spotify.com\/artist\/6CK4CBL0n07VdVZmfh40nm"
+        "FamousLevel":74,
+        "Link":"https:\/\/open.spotify.com\/artist\/5XKFrudbV4IiuE5WuTPRmT"
+    },
+    {
+        "Artistname":"JVKE",
+        "Genre":[
+            "Unknown Genre"
+        ],
+        "FamousLevel":76,
+        "Link":"https:\/\/open.spotify.com\/artist\/164Uj4eKjl6zTBKfJLFKKK"
     },
     {
         "Artistname":"Kachi Annuncia",
@@ -455,60 +504,5 @@
         ],
         "FamousLevel":30,
         "Link":"https:\/\/open.spotify.com\/artist\/1BX5LtwtToqHi5kRICFlYf"
-    },
-    {
-        "Artistname":"HHPG",
-        "Genre":[
-            "african gospel"
-        ],
-        "FamousLevel":28,
-        "Link":"https:\/\/open.spotify.com\/artist\/2aoTlgNAkhR2yHzNvfC1pM"
-    },
-    {
-        "Artistname":"CalledOut Music",
-        "Genre":[
-            "gospel r&b",
-            "african gospel",
-            "gospel",
-            "worship",
-            "christian pop",
-            "christian"
-        ],
-        "FamousLevel":53,
-        "Link":"https:\/\/open.spotify.com\/artist\/3VY7IlU2547DIC1ca88lRH"
-    },
-    {
-        "Artistname":"River Valley AGES",
-        "Genre":[
-            "worship",
-            "cedm",
-            "pop worship",
-            "christian pop",
-            "christian",
-            "christian alternative rock"
-        ],
-        "FamousLevel":39,
-        "Link":"https:\/\/open.spotify.com\/artist\/3Y44hdG7tljyluN4wv9j5h"
-    },
-    {
-        "Artistname":"Verses",
-        "Genre":[
-            "christian folk",
-            "worship"
-        ],
-        "FamousLevel":50,
-        "Link":"https:\/\/open.spotify.com\/artist\/3wjs1kzL7HZbzs8HpxllEI"
-    },
-    {
-        "Artistname":"Rock City Worship",
-        "Genre":[
-            "pop worship",
-            "cedm",
-            "christian pop",
-            "worship",
-            "christian"
-        ],
-        "FamousLevel":39,
-        "Link":"https:\/\/open.spotify.com\/artist\/3yAv8udgy9z6yF6rREcgfB"
     }
 ]

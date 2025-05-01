@@ -13,7 +13,7 @@
             "gospel r&b",
             "christian alternative rock"
         ],
-        "FamousLevel":36,
+        "FamousLevel":37,
         "Link":"https:\/\/open.spotify.com\/artist\/1GWnsRvGpSmKxHOjMQah4k"
     },
     {
@@ -326,7 +326,7 @@
             "gospel",
             "worship"
         ],
-        "FamousLevel":58,
+        "FamousLevel":59,
         "Link":"https:\/\/open.spotify.com\/artist\/7eEP4TA1RioDH3OBKPcQEC"
     },
     {
@@ -655,5 +655,31 @@
         ],
         "FamousLevel":39,
         "Link":"https:\/\/open.spotify.com\/artist\/3Y44hdG7tljyluN4wv9j5h"
+    },
+    {
+        "Artistname":"Joepraize",
+        "Genre":[
+            "african gospel",
+            "gospel",
+            "worship"
+        ],
+        "FamousLevel":41,
+        "Link":"https:\/\/open.spotify.com\/artist\/36zaJBikfrPslhG3cYnv8s"
+    },
+    {
+        "Artistname":"Stephen Sanchez",
+        "Genre":[
+            "Unknown Genre"
+        ],
+        "FamousLevel":74,
+        "Link":"https:\/\/open.spotify.com\/artist\/5XKFrudbV4IiuE5WuTPRmT"
+    },
+    {
+        "Artistname":"JVKE",
+        "Genre":[
+            "Unknown Genre"
+        ],
+        "FamousLevel":76,
+        "Link":"https:\/\/open.spotify.com\/artist\/164Uj4eKjl6zTBKfJLFKKK"
     }
 ]
