@@ -132,7 +132,7 @@
         "track_name":"sunset silhouette",
         "artist_name":"Strings And Heart",
         "duration":176181,
-        "popularity":56,
+        "popularity":57,
         "link":null
     },
     {
@@ -148,7 +148,7 @@
         "track_name":"NO L's",
         "artist_name":"Forrest Frank",
         "duration":147692,
-        "popularity":67,
+        "popularity":68,
         "link":null
     },
     {
@@ -236,7 +236,7 @@
         "track_name":"CELEBRATION",
         "artist_name":"Forrest Frank",
         "duration":161544,
-        "popularity":63,
+        "popularity":65,
         "link":null
     },
     {
@@ -260,7 +260,15 @@
         "track_name":"Even Better",
         "artist_name":"D\u00e2mares Gomes",
         "duration":198688,
-        "popularity":37,
+        "popularity":38,
+        "link":null
+    },
+    {
+        "id":"spotify:track:1q03R3KP1HVkSywYa2MEb5",
+        "track_name":"Morning Devotion Worship",
+        "artist_name":"Grace Idowu",
+        "duration":424824,
+        "popularity":45,
         "link":null
     },
     {
@@ -316,7 +324,7 @@
         "track_name":"Contemporary Praise Medley - Live",
         "artist_name":"Gabriel Eziashi",
         "duration":817850,
-        "popularity":35,
+        "popularity":34,
         "link":null
     },
     {
@@ -340,7 +348,7 @@
         "track_name":"everything i once held dear",
         "artist_name":"sxxnt.",
         "duration":171111,
-        "popularity":38,
+        "popularity":39,
         "link":null
     },
     {
@@ -368,6 +376,14 @@
         "link":null
     },
     {
+        "id":"spotify:track:34NTzNkGn13gj2fp3eFARp",
+        "track_name":"In Christ Alone",
+        "artist_name":"Boyce Worship Collective",
+        "duration":280597,
+        "popularity":30,
+        "link":null
+    },
+    {
         "id":"spotify:track:5jRTgw2lvOGX1kWjvh6GpY",
         "track_name":"Trust",
         "artist_name":"Asha Elia",
@@ -380,23 +396,7 @@
         "track_name":"Clean",
         "artist_name":"OAKS",
         "duration":196130,
-        "popularity":26,
-        "link":null
-    },
-    {
-        "id":"spotify:track:4Cr2oltVAPC6rAUMTgot0M",
-        "track_name":"Down In My Heart",
-        "artist_name":"ONE HOUSE",
-        "duration":304015,
-        "popularity":30,
-        "link":null
-    },
-    {
-        "id":"spotify:track:6iiAykg47kO4pXbdzpI65p",
-        "track_name":"RUN",
-        "artist_name":"G.E.S",
-        "duration":163001,
-        "popularity":45,
+        "popularity":27,
         "link":null
     }
 ]

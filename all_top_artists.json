@@ -185,7 +185,7 @@
             "christian pop",
             "christian"
         ],
-        "FamousLevel":46,
+        "FamousLevel":45,
         "Link":"https:\/\/open.spotify.com\/artist\/0B1cF1eekag30vXyt0YWMs"
     },
     {
@@ -305,7 +305,7 @@
         "Genre":[
             "gospel r&b"
         ],
-        "FamousLevel":36,
+        "FamousLevel":37,
         "Link":"https:\/\/open.spotify.com\/artist\/1r0gAOldNSTyidXhWLDHTF"
     },
     {
@@ -438,7 +438,7 @@
             "african gospel",
             "gospel"
         ],
-        "FamousLevel":41,
+        "FamousLevel":42,
         "Link":"https:\/\/open.spotify.com\/artist\/6kMfCacgijUReCAskGVQwR"
     },
     {
@@ -583,8 +583,8 @@
             "gospel r&b",
             "gospel",
             "christian pop",
-            "christian",
-            "african gospel"
+            "african gospel",
+            "christian"
         ],
         "FamousLevel":39,
         "Link":"https:\/\/open.spotify.com\/artist\/60CbU4u8dlhoHzRCNhTA1S"
@@ -681,5 +681,15 @@
         ],
         "FamousLevel":76,
         "Link":"https:\/\/open.spotify.com\/artist\/164Uj4eKjl6zTBKfJLFKKK"
+    },
+    {
+        "Artistname":"Tems",
+        "Genre":[
+            "afrobeats",
+            "alt\u00e9",
+            "afrobeat"
+        ],
+        "FamousLevel":77,
+        "Link":"https:\/\/open.spotify.com\/artist\/687cZJR45JO7jhk1LHIbgq"
     }
 ]

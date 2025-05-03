@@ -45,7 +45,7 @@
         "Genre":[
             "gospel r&b"
         ],
-        "FamousLevel":36,
+        "FamousLevel":37,
         "Link":"https:\/\/open.spotify.com\/artist\/1r0gAOldNSTyidXhWLDHTF"
     },
     {
@@ -87,8 +87,8 @@
             "gospel r&b",
             "gospel",
             "christian pop",
-            "christian",
-            "african gospel"
+            "african gospel",
+            "christian"
         ],
         "FamousLevel":39,
         "Link":"https:\/\/open.spotify.com\/artist\/60CbU4u8dlhoHzRCNhTA1S"
@@ -123,15 +123,6 @@
         "Link":"https:\/\/open.spotify.com\/artist\/6sx0dcFppnpZl1HSX6cCqx"
     },
     {
-        "Artistname":"Kenneth Kelly",
-        "Genre":[
-            "gospel r&b",
-            "pop worship"
-        ],
-        "FamousLevel":27,
-        "Link":"https:\/\/open.spotify.com\/artist\/0S90F2l4d1G4ZeqVvDLy3q"
-    },
-    {
         "Artistname":"kaestrings",
         "Genre":[
             "african gospel",
@@ -140,6 +131,15 @@
         ],
         "FamousLevel":59,
         "Link":"https:\/\/open.spotify.com\/artist\/7eEP4TA1RioDH3OBKPcQEC"
+    },
+    {
+        "Artistname":"Kenneth Kelly",
+        "Genre":[
+            "gospel r&b",
+            "pop worship"
+        ],
+        "FamousLevel":27,
+        "Link":"https:\/\/open.spotify.com\/artist\/0S90F2l4d1G4ZeqVvDLy3q"
     },
     {
         "Artistname":"Leslie Perez",
@@ -292,7 +292,7 @@
             "african gospel",
             "gospel"
         ],
-        "FamousLevel":41,
+        "FamousLevel":42,
         "Link":"https:\/\/open.spotify.com\/artist\/6kMfCacgijUReCAskGVQwR"
     },
     {
@@ -315,7 +315,7 @@
             "christian pop",
             "christian"
         ],
-        "FamousLevel":46,
+        "FamousLevel":45,
         "Link":"https:\/\/open.spotify.com\/artist\/0B1cF1eekag30vXyt0YWMs"
     },
     {
@@ -359,19 +359,6 @@
         ],
         "FamousLevel":42,
         "Link":"https:\/\/open.spotify.com\/artist\/1L9zhXcitRv35NwUZmwBZ4"
-    },
-    {
-        "Artistname":"CalledOut Music",
-        "Genre":[
-            "gospel r&b",
-            "african gospel",
-            "gospel",
-            "worship",
-            "christian pop",
-            "christian"
-        ],
-        "FamousLevel":53,
-        "Link":"https:\/\/open.spotify.com\/artist\/3VY7IlU2547DIC1ca88lRH"
     },
     {
         "Artistname":"Maverick City Music",
@@ -418,6 +405,19 @@
         ],
         "FamousLevel":50,
         "Link":"https:\/\/open.spotify.com\/artist\/1FYE37rOHOrxO1lHAQUkCl"
+    },
+    {
+        "Artistname":"CalledOut Music",
+        "Genre":[
+            "gospel r&b",
+            "african gospel",
+            "gospel",
+            "worship",
+            "christian pop",
+            "christian"
+        ],
+        "FamousLevel":53,
+        "Link":"https:\/\/open.spotify.com\/artist\/3VY7IlU2547DIC1ca88lRH"
     },
     {
         "Artistname":"D\u00e2mares Gomes",
@@ -490,19 +490,21 @@
         "Link":"https:\/\/open.spotify.com\/artist\/5XKFrudbV4IiuE5WuTPRmT"
     },
     {
+        "Artistname":"Tems",
+        "Genre":[
+            "afrobeats",
+            "alt\u00e9",
+            "afrobeat"
+        ],
+        "FamousLevel":77,
+        "Link":"https:\/\/open.spotify.com\/artist\/687cZJR45JO7jhk1LHIbgq"
+    },
+    {
         "Artistname":"JVKE",
         "Genre":[
             "Unknown Genre"
         ],
         "FamousLevel":76,
         "Link":"https:\/\/open.spotify.com\/artist\/164Uj4eKjl6zTBKfJLFKKK"
-    },
-    {
-        "Artistname":"Kachi Annuncia",
-        "Genre":[
-            "gospel r&b"
-        ],
-        "FamousLevel":30,
-        "Link":"https:\/\/open.spotify.com\/artist\/1BX5LtwtToqHi5kRICFlYf"
     }
 ]
