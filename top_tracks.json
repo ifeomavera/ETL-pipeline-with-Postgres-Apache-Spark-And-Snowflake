@@ -1,10 +1,10 @@
 [
     {
-        "id":"spotify:track:3HQ9mUzgLQ6Hvl1Q1YiiKN",
+        "id":"spotify:track:0lvMWKWDENFmjkiR4AVHui",
         "track_name":"Sing Of Your Love",
         "artist_name":"ELEVATION RHYTHM",
         "duration":280374,
-        "popularity":62,
+        "popularity":13,
         "link":null
     },
     {
@@ -40,11 +40,35 @@
         "link":null
     },
     {
+        "id":"spotify:track:1oZzBciFi4arS8MrBkso9H",
+        "track_name":"empty airport",
+        "artist_name":"Strings And Heart",
+        "duration":137845,
+        "popularity":56,
+        "link":null
+    },
+    {
         "id":"spotify:track:5uHmaCMrEFNSgUbV4sPJS8",
         "track_name":"evergreen love",
         "artist_name":"Strings And Heart",
         "duration":177804,
         "popularity":63,
+        "link":null
+    },
+    {
+        "id":"spotify:track:4jFxBBeTJtvQSKMcdrCDPV",
+        "track_name":"honeydew (praise the Lord)",
+        "artist_name":"Strings And Heart",
+        "duration":224000,
+        "popularity":60,
+        "link":null
+    },
+    {
+        "id":"spotify:track:4IValzT5ZRzUXyofWl8mbp",
+        "track_name":"backseat drive",
+        "artist_name":"Strings And Heart",
+        "duration":174650,
+        "popularity":38,
         "link":null
     },
     {
@@ -204,7 +228,7 @@
         "track_name":"YOUR WAY'S BETTER",
         "artist_name":"Forrest Frank",
         "duration":198082,
-        "popularity":75,
+        "popularity":76,
         "link":null
     },
     {
@@ -244,7 +268,7 @@
         "track_name":"Free My Mind",
         "artist_name":"G.E.S",
         "duration":194745,
-        "popularity":42,
+        "popularity":43,
         "link":null
     },
     {
@@ -284,7 +308,7 @@
         "track_name":"Stars",
         "artist_name":"Cade Kellam",
         "duration":174250,
-        "popularity":30,
+        "popularity":31,
         "link":null
     },
     {
@@ -348,7 +372,7 @@
         "track_name":"everything i once held dear",
         "artist_name":"sxxnt.",
         "duration":171111,
-        "popularity":39,
+        "popularity":38,
         "link":null
     },
     {
@@ -373,30 +397,6 @@
         "artist_name":"Claire Leslie",
         "duration":166837,
         "popularity":36,
-        "link":null
-    },
-    {
-        "id":"spotify:track:34NTzNkGn13gj2fp3eFARp",
-        "track_name":"In Christ Alone",
-        "artist_name":"Boyce Worship Collective",
-        "duration":280597,
-        "popularity":30,
-        "link":null
-    },
-    {
-        "id":"spotify:track:5jRTgw2lvOGX1kWjvh6GpY",
-        "track_name":"Trust",
-        "artist_name":"Asha Elia",
-        "duration":109333,
-        "popularity":15,
-        "link":null
-    },
-    {
-        "id":"spotify:track:2TUW3yDwsfNcBOtk8RPSqu",
-        "track_name":"Clean",
-        "artist_name":"OAKS",
-        "duration":196130,
-        "popularity":27,
         "link":null
     }
 ]

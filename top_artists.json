@@ -52,8 +52,8 @@
         "Artistname":"Forrest Frank",
         "Genre":[
             "christian hip hop",
-            "christian pop",
             "pop worship",
+            "christian pop",
             "christian",
             "worship",
             "gospel r&b"
@@ -167,7 +167,7 @@
             "christian alternative rock",
             "christian folk"
         ],
-        "FamousLevel":44,
+        "FamousLevel":45,
         "Link":"https:\/\/open.spotify.com\/artist\/39mgk0y3gWDfKqHTAcc2LG"
     },
     {
@@ -426,7 +426,7 @@
             "christian folk",
             "cedm"
         ],
-        "FamousLevel":40,
+        "FamousLevel":41,
         "Link":"https:\/\/open.spotify.com\/artist\/5vH1WRgVmc2mwF0iXgOibC"
     },
     {
@@ -440,6 +440,14 @@
         ],
         "FamousLevel":71,
         "Link":"https:\/\/open.spotify.com\/artist\/7yAymwuYh9RcpX84GSNIq2"
+    },
+    {
+        "Artistname":"Lana Del Rey",
+        "Genre":[
+            "Unknown Genre"
+        ],
+        "FamousLevel":92,
+        "Link":"https:\/\/open.spotify.com\/artist\/00FQb4jTyendYWaN8pK0wa"
     },
     {
         "Artistname":"Ri-An",
@@ -498,13 +506,5 @@
         ],
         "FamousLevel":77,
         "Link":"https:\/\/open.spotify.com\/artist\/687cZJR45JO7jhk1LHIbgq"
-    },
-    {
-        "Artistname":"JVKE",
-        "Genre":[
-            "Unknown Genre"
-        ],
-        "FamousLevel":76,
-        "Link":"https:\/\/open.spotify.com\/artist\/164Uj4eKjl6zTBKfJLFKKK"
     }
 ]
