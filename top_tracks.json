@@ -4,7 +4,7 @@
         "track_name":"Sing Of Your Love",
         "artist_name":"ELEVATION RHYTHM",
         "duration":280374,
-        "popularity":13,
+        "popularity":20,
         "link":null
     },
     {
@@ -28,7 +28,7 @@
         "track_name":"Righteous Man",
         "artist_name":"G.E.S",
         "duration":182684,
-        "popularity":29,
+        "popularity":28,
         "link":null
     },
     {
@@ -48,14 +48,6 @@
         "link":null
     },
     {
-        "id":"spotify:track:5uHmaCMrEFNSgUbV4sPJS8",
-        "track_name":"evergreen love",
-        "artist_name":"Strings And Heart",
-        "duration":177804,
-        "popularity":63,
-        "link":null
-    },
-    {
         "id":"spotify:track:4jFxBBeTJtvQSKMcdrCDPV",
         "track_name":"honeydew (praise the Lord)",
         "artist_name":"Strings And Heart",
@@ -68,7 +60,15 @@
         "track_name":"backseat drive",
         "artist_name":"Strings And Heart",
         "duration":174650,
-        "popularity":38,
+        "popularity":42,
+        "link":null
+    },
+    {
+        "id":"spotify:track:5uHmaCMrEFNSgUbV4sPJS8",
+        "track_name":"evergreen love",
+        "artist_name":"Strings And Heart",
+        "duration":177804,
+        "popularity":63,
         "link":null
     },
     {
@@ -108,7 +108,7 @@
         "track_name":"perfect union",
         "artist_name":"Sinmidele",
         "duration":210745,
-        "popularity":47,
+        "popularity":46,
         "link":null
     },
     {
@@ -128,6 +128,14 @@
         "link":null
     },
     {
+        "id":"spotify:track:0Iy5fEEflk6ZLAwlezqXVE",
+        "track_name":"The Anthem (Iwo Tani)",
+        "artist_name":"Bidemi Olaoba",
+        "duration":169900,
+        "popularity":44,
+        "link":null
+    },
+    {
         "id":"spotify:track:5MgOEKlQ9eQMD9ysnf5xsX",
         "track_name":"Jesus, Jesus",
         "artist_name":"sxxnt.",
@@ -141,14 +149,6 @@
         "artist_name":"Sarah Nathali\u00e9",
         "duration":137239,
         "popularity":21,
-        "link":null
-    },
-    {
-        "id":"spotify:track:0Iy5fEEflk6ZLAwlezqXVE",
-        "track_name":"The Anthem (Iwo Tani)",
-        "artist_name":"Bidemi Olaoba",
-        "duration":169900,
-        "popularity":44,
         "link":null
     },
     {
@@ -172,7 +172,7 @@
         "track_name":"NO L's",
         "artist_name":"Forrest Frank",
         "duration":147692,
-        "popularity":68,
+        "popularity":69,
         "link":null
     },
     {
@@ -189,6 +189,14 @@
         "artist_name":"kaestrings",
         "duration":140903,
         "popularity":38,
+        "link":null
+    },
+    {
+        "id":"spotify:track:3zfPYqEqCoO6ud6PMrXqXK",
+        "track_name":"Dry Bones",
+        "artist_name":"Gabriel Eziashi",
+        "duration":178512,
+        "popularity":43,
         "link":null
     },
     {
@@ -232,11 +240,11 @@
         "link":null
     },
     {
-        "id":"spotify:track:3zfPYqEqCoO6ud6PMrXqXK",
-        "track_name":"Dry Bones",
-        "artist_name":"Gabriel Eziashi",
-        "duration":178512,
-        "popularity":43,
+        "id":"spotify:track:1q03R3KP1HVkSywYa2MEb5",
+        "track_name":"Morning Devotion Worship",
+        "artist_name":"Grace Idowu",
+        "duration":424824,
+        "popularity":45,
         "link":null
     },
     {
@@ -260,7 +268,7 @@
         "track_name":"CELEBRATION",
         "artist_name":"Forrest Frank",
         "duration":161544,
-        "popularity":65,
+        "popularity":66,
         "link":null
     },
     {
@@ -268,7 +276,7 @@
         "track_name":"Free My Mind",
         "artist_name":"G.E.S",
         "duration":194745,
-        "popularity":43,
+        "popularity":42,
         "link":null
     },
     {
@@ -288,14 +296,6 @@
         "link":null
     },
     {
-        "id":"spotify:track:1q03R3KP1HVkSywYa2MEb5",
-        "track_name":"Morning Devotion Worship",
-        "artist_name":"Grace Idowu",
-        "duration":424824,
-        "popularity":45,
-        "link":null
-    },
-    {
         "id":"spotify:track:2alkWeDWQSytDexz9nhMZ1",
         "track_name":"Psalm 46",
         "artist_name":"Tekoa",
@@ -309,6 +309,22 @@
         "artist_name":"Cade Kellam",
         "duration":174250,
         "popularity":31,
+        "link":null
+    },
+    {
+        "id":"spotify:track:34NTzNkGn13gj2fp3eFARp",
+        "track_name":"In Christ Alone",
+        "artist_name":"Boyce Worship Collective",
+        "duration":280597,
+        "popularity":30,
+        "link":null
+    },
+    {
+        "id":"spotify:track:3fBZFKMe1KMafGZkjJVr7i",
+        "track_name":"sacred",
+        "artist_name":"Sinmidele",
+        "duration":229639,
+        "popularity":42,
         "link":null
     },
     {
@@ -381,22 +397,6 @@
         "artist_name":"G.E.S",
         "duration":130841,
         "popularity":41,
-        "link":null
-    },
-    {
-        "id":"spotify:track:6qLrRZYhtWKkanyYOJfl8B",
-        "track_name":"HOLY HUH?",
-        "artist_name":"DKG KIE",
-        "duration":164181,
-        "popularity":47,
-        "link":null
-    },
-    {
-        "id":"spotify:track:2axBVre427GCNKwAmA2V3G",
-        "track_name":"Twenty Something",
-        "artist_name":"Claire Leslie",
-        "duration":166837,
-        "popularity":36,
         "link":null
     }
 ]

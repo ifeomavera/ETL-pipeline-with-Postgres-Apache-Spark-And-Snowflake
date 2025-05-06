@@ -37,7 +37,7 @@
             "gospel r&b",
             "christian alternative rock"
         ],
-        "FamousLevel":37,
+        "FamousLevel":36,
         "Link":"https:\/\/open.spotify.com\/artist\/1GWnsRvGpSmKxHOjMQah4k"
     },
     {
@@ -47,6 +47,16 @@
         ],
         "FamousLevel":37,
         "Link":"https:\/\/open.spotify.com\/artist\/1r0gAOldNSTyidXhWLDHTF"
+    },
+    {
+        "Artistname":"Claire Leslie",
+        "Genre":[
+            "pop worship",
+            "christian pop",
+            "christian"
+        ],
+        "FamousLevel":42,
+        "Link":"https:\/\/open.spotify.com\/artist\/5GkuwRdmvp8r48JCPwqM7E"
     },
     {
         "Artistname":"Forrest Frank",
@@ -62,14 +72,14 @@
         "Link":"https:\/\/open.spotify.com\/artist\/1scVfBymTr3CeZ4imMj1QJ"
     },
     {
-        "Artistname":"Claire Leslie",
+        "Artistname":"Sinmidele",
         "Genre":[
-            "pop worship",
-            "christian pop",
-            "christian"
+            "gospel r&b",
+            "african gospel",
+            "gospel"
         ],
-        "FamousLevel":42,
-        "Link":"https:\/\/open.spotify.com\/artist\/5GkuwRdmvp8r48JCPwqM7E"
+        "FamousLevel":48,
+        "Link":"https:\/\/open.spotify.com\/artist\/0xmUZqkqmJfezc0fzyfboj"
     },
     {
         "Artistname":"Bidemi Olaoba",
@@ -78,7 +88,7 @@
             "gospel",
             "worship"
         ],
-        "FamousLevel":47,
+        "FamousLevel":48,
         "Link":"https:\/\/open.spotify.com\/artist\/6zgGhksQtJmJzAOalAeUSV"
     },
     {
@@ -94,6 +104,16 @@
         "Link":"https:\/\/open.spotify.com\/artist\/60CbU4u8dlhoHzRCNhTA1S"
     },
     {
+        "Artistname":"kaestrings",
+        "Genre":[
+            "african gospel",
+            "gospel",
+            "worship"
+        ],
+        "FamousLevel":59,
+        "Link":"https:\/\/open.spotify.com\/artist\/7eEP4TA1RioDH3OBKPcQEC"
+    },
+    {
         "Artistname":"Cecily",
         "Genre":[
             "worship",
@@ -101,16 +121,6 @@
         ],
         "FamousLevel":45,
         "Link":"https:\/\/open.spotify.com\/artist\/4hryzFSB8IYFIaBba9jUvT"
-    },
-    {
-        "Artistname":"Sinmidele",
-        "Genre":[
-            "gospel r&b",
-            "african gospel",
-            "gospel"
-        ],
-        "FamousLevel":48,
-        "Link":"https:\/\/open.spotify.com\/artist\/0xmUZqkqmJfezc0fzyfboj"
     },
     {
         "Artistname":"Gabriel Eziashi",
@@ -123,16 +133,6 @@
         "Link":"https:\/\/open.spotify.com\/artist\/6sx0dcFppnpZl1HSX6cCqx"
     },
     {
-        "Artistname":"kaestrings",
-        "Genre":[
-            "african gospel",
-            "gospel",
-            "worship"
-        ],
-        "FamousLevel":59,
-        "Link":"https:\/\/open.spotify.com\/artist\/7eEP4TA1RioDH3OBKPcQEC"
-    },
-    {
         "Artistname":"Kenneth Kelly",
         "Genre":[
             "gospel r&b",
@@ -140,6 +140,16 @@
         ],
         "FamousLevel":27,
         "Link":"https:\/\/open.spotify.com\/artist\/0S90F2l4d1G4ZeqVvDLy3q"
+    },
+    {
+        "Artistname":"Grace Idowu",
+        "Genre":[
+            "african gospel",
+            "gospel",
+            "worship"
+        ],
+        "FamousLevel":46,
+        "Link":"https:\/\/open.spotify.com\/artist\/77XL22LWpJkV8djPjCNoNH"
     },
     {
         "Artistname":"Leslie Perez",
@@ -239,6 +249,15 @@
         "Link":"https:\/\/open.spotify.com\/artist\/79MTG7HPurBgQ0ilwJ4AgM"
     },
     {
+        "Artistname":"Benjamin William Hastings",
+        "Genre":[
+            "worship",
+            "christian"
+        ],
+        "FamousLevel":62,
+        "Link":"https:\/\/open.spotify.com\/artist\/6CK4CBL0n07VdVZmfh40nm"
+    },
+    {
         "Artistname":"C\u00e8Jae",
         "Genre":[
             "gospel r&b",
@@ -247,15 +266,6 @@
         ],
         "FamousLevel":50,
         "Link":"https:\/\/open.spotify.com\/artist\/15AlBadiR2gLPibtqELUH3"
-    },
-    {
-        "Artistname":"Benjamin William Hastings",
-        "Genre":[
-            "worship",
-            "christian"
-        ],
-        "FamousLevel":62,
-        "Link":"https:\/\/open.spotify.com\/artist\/6CK4CBL0n07VdVZmfh40nm"
     },
     {
         "Artistname":"K3ndrick",
@@ -294,16 +304,6 @@
         ],
         "FamousLevel":42,
         "Link":"https:\/\/open.spotify.com\/artist\/6kMfCacgijUReCAskGVQwR"
-    },
-    {
-        "Artistname":"Grace Idowu",
-        "Genre":[
-            "african gospel",
-            "gospel",
-            "worship"
-        ],
-        "FamousLevel":46,
-        "Link":"https:\/\/open.spotify.com\/artist\/77XL22LWpJkV8djPjCNoNH"
     },
     {
         "Artistname":"MUCH MORE",
@@ -430,6 +430,16 @@
         "Link":"https:\/\/open.spotify.com\/artist\/5vH1WRgVmc2mwF0iXgOibC"
     },
     {
+        "Artistname":"Tems",
+        "Genre":[
+            "afrobeats",
+            "alt\u00e9",
+            "afrobeat"
+        ],
+        "FamousLevel":77,
+        "Link":"https:\/\/open.spotify.com\/artist\/687cZJR45JO7jhk1LHIbgq"
+    },
+    {
         "Artistname":"Josiah Queen",
         "Genre":[
             "christian folk",
@@ -496,15 +506,5 @@
         ],
         "FamousLevel":74,
         "Link":"https:\/\/open.spotify.com\/artist\/5XKFrudbV4IiuE5WuTPRmT"
-    },
-    {
-        "Artistname":"Tems",
-        "Genre":[
-            "afrobeats",
-            "alt\u00e9",
-            "afrobeat"
-        ],
-        "FamousLevel":77,
-        "Link":"https:\/\/open.spotify.com\/artist\/687cZJR45JO7jhk1LHIbgq"
     }
 ]
