@@ -50,7 +50,8 @@
         "Artistname":"Kenneth Kelly",
         "Genre":[
             "gospel r&b",
-            "pop worship"
+            "pop worship",
+            "christian pop"
         ],
         "FamousLevel":27,
         "Link":"https:\/\/open.spotify.com\/artist\/0S90F2l4d1G4ZeqVvDLy3q"
@@ -358,8 +359,8 @@
         "Artistname":"Forrest Frank",
         "Genre":[
             "christian hip hop",
-            "pop worship",
             "christian pop",
+            "pop worship",
             "christian",
             "worship",
             "gospel r&b"

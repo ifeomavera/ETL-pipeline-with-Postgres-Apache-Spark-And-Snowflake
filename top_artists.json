@@ -62,8 +62,8 @@
         "Artistname":"Forrest Frank",
         "Genre":[
             "christian hip hop",
-            "pop worship",
             "christian pop",
+            "pop worship",
             "christian",
             "worship",
             "gospel r&b"
@@ -133,15 +133,6 @@
         "Link":"https:\/\/open.spotify.com\/artist\/6sx0dcFppnpZl1HSX6cCqx"
     },
     {
-        "Artistname":"Kenneth Kelly",
-        "Genre":[
-            "gospel r&b",
-            "pop worship"
-        ],
-        "FamousLevel":27,
-        "Link":"https:\/\/open.spotify.com\/artist\/0S90F2l4d1G4ZeqVvDLy3q"
-    },
-    {
         "Artistname":"Grace Idowu",
         "Genre":[
             "african gospel",
@@ -150,6 +141,16 @@
         ],
         "FamousLevel":46,
         "Link":"https:\/\/open.spotify.com\/artist\/77XL22LWpJkV8djPjCNoNH"
+    },
+    {
+        "Artistname":"Kenneth Kelly",
+        "Genre":[
+            "gospel r&b",
+            "pop worship",
+            "christian pop"
+        ],
+        "FamousLevel":27,
+        "Link":"https:\/\/open.spotify.com\/artist\/0S90F2l4d1G4ZeqVvDLy3q"
     },
     {
         "Artistname":"Leslie Perez",
@@ -249,6 +250,15 @@
         "Link":"https:\/\/open.spotify.com\/artist\/79MTG7HPurBgQ0ilwJ4AgM"
     },
     {
+        "Artistname":"Isaac Wheadon",
+        "Genre":[
+            "gospel r&b",
+            "cedm"
+        ],
+        "FamousLevel":34,
+        "Link":"https:\/\/open.spotify.com\/artist\/3JdtFl0iWwZTNO5ul5nP5e"
+    },
+    {
         "Artistname":"Benjamin William Hastings",
         "Genre":[
             "worship",
@@ -278,15 +288,6 @@
         "Link":"https:\/\/open.spotify.com\/artist\/0ULEmCfIKnFCdZfZsTmxG5"
     },
     {
-        "Artistname":"Isaac Wheadon",
-        "Genre":[
-            "gospel r&b",
-            "cedm"
-        ],
-        "FamousLevel":34,
-        "Link":"https:\/\/open.spotify.com\/artist\/3JdtFl0iWwZTNO5ul5nP5e"
-    },
-    {
         "Artistname":"ONE HOUSE",
         "Genre":[
             "worship",
@@ -304,6 +305,18 @@
         ],
         "FamousLevel":42,
         "Link":"https:\/\/open.spotify.com\/artist\/6kMfCacgijUReCAskGVQwR"
+    },
+    {
+        "Artistname":"Jonny Henninger",
+        "Genre":[
+            "gospel r&b",
+            "christian alternative rock",
+            "christian pop",
+            "pop worship",
+            "christian"
+        ],
+        "FamousLevel":42,
+        "Link":"https:\/\/open.spotify.com\/artist\/1L9zhXcitRv35NwUZmwBZ4"
     },
     {
         "Artistname":"MUCH MORE",
@@ -347,18 +360,6 @@
         ],
         "FamousLevel":50,
         "Link":"https:\/\/open.spotify.com\/artist\/7MCV4p3QmcYDMTfiE0ZWMD"
-    },
-    {
-        "Artistname":"Jonny Henninger",
-        "Genre":[
-            "gospel r&b",
-            "christian alternative rock",
-            "christian pop",
-            "pop worship",
-            "christian"
-        ],
-        "FamousLevel":42,
-        "Link":"https:\/\/open.spotify.com\/artist\/1L9zhXcitRv35NwUZmwBZ4"
     },
     {
         "Artistname":"Maverick City Music",
@@ -407,6 +408,14 @@
         "Link":"https:\/\/open.spotify.com\/artist\/1FYE37rOHOrxO1lHAQUkCl"
     },
     {
+        "Artistname":"Lana Del Rey",
+        "Genre":[
+            "Unknown Genre"
+        ],
+        "FamousLevel":92,
+        "Link":"https:\/\/open.spotify.com\/artist\/00FQb4jTyendYWaN8pK0wa"
+    },
+    {
         "Artistname":"CalledOut Music",
         "Genre":[
             "gospel r&b",
@@ -450,14 +459,6 @@
         ],
         "FamousLevel":71,
         "Link":"https:\/\/open.spotify.com\/artist\/7yAymwuYh9RcpX84GSNIq2"
-    },
-    {
-        "Artistname":"Lana Del Rey",
-        "Genre":[
-            "Unknown Genre"
-        ],
-        "FamousLevel":92,
-        "Link":"https:\/\/open.spotify.com\/artist\/00FQb4jTyendYWaN8pK0wa"
     },
     {
         "Artistname":"Ri-An",
