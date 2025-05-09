@@ -4,7 +4,7 @@
         "track_name":"Sing Of Your Love",
         "artist_name":"ELEVATION RHYTHM",
         "duration":280374,
-        "popularity":20,
+        "popularity":30,
         "link":null
     },
     {
@@ -60,7 +60,7 @@
         "track_name":"backseat drive",
         "artist_name":"Strings And Heart",
         "duration":174650,
-        "popularity":42,
+        "popularity":45,
         "link":null
     },
     {
@@ -196,7 +196,15 @@
         "track_name":"Dry Bones",
         "artist_name":"Gabriel Eziashi",
         "duration":178512,
-        "popularity":43,
+        "popularity":44,
+        "link":null
+    },
+    {
+        "id":"spotify:track:1q03R3KP1HVkSywYa2MEb5",
+        "track_name":"Morning Devotion Worship",
+        "artist_name":"Grace Idowu",
+        "duration":424824,
+        "popularity":45,
         "link":null
     },
     {
@@ -212,7 +220,7 @@
         "track_name":"Merry & Bright",
         "artist_name":"Sarah Nathali\u00e9",
         "duration":209914,
-        "popularity":19,
+        "popularity":18,
         "link":null
     },
     {
@@ -240,19 +248,19 @@
         "link":null
     },
     {
-        "id":"spotify:track:1q03R3KP1HVkSywYa2MEb5",
-        "track_name":"Morning Devotion Worship",
-        "artist_name":"Grace Idowu",
-        "duration":424824,
-        "popularity":45,
-        "link":null
-    },
-    {
         "id":"spotify:track:5eOtOmwDRitSjJRNcgkKOc",
         "track_name":"love you to death",
         "artist_name":"Josiah Queen",
         "duration":172258,
         "popularity":66,
+        "link":null
+    },
+    {
+        "id":"spotify:track:3fBZFKMe1KMafGZkjJVr7i",
+        "track_name":"sacred",
+        "artist_name":"Sinmidele",
+        "duration":229639,
+        "popularity":41,
         "link":null
     },
     {
@@ -268,7 +276,7 @@
         "track_name":"CELEBRATION",
         "artist_name":"Forrest Frank",
         "duration":161544,
-        "popularity":66,
+        "popularity":67,
         "link":null
     },
     {
@@ -300,7 +308,7 @@
         "track_name":"Even Better",
         "artist_name":"D\u00e2mares Gomes",
         "duration":198688,
-        "popularity":38,
+        "popularity":39,
         "link":null
     },
     {
@@ -328,14 +336,6 @@
         "link":null
     },
     {
-        "id":"spotify:track:3fBZFKMe1KMafGZkjJVr7i",
-        "track_name":"sacred",
-        "artist_name":"Sinmidele",
-        "duration":229639,
-        "popularity":42,
-        "link":null
-    },
-    {
         "id":"spotify:track:04a2j62vStA6fwFMlR7Vq7",
         "track_name":"What Can Wash Away?",
         "artist_name":"sxxnt.",
@@ -356,7 +356,7 @@
         "track_name":"Who Woulda Known",
         "artist_name":"Asha Elia",
         "duration":121000,
-        "popularity":23,
+        "popularity":22,
         "link":null
     },
     {
